@@ -256,8 +256,8 @@ export const questions: Question[] = [
       "4",
       "5"
     ],
-    "correctAnswer": 1,
-    "explanation": "Makna kemerdekaan sebagai jalan untuk mewujudkan cita-cita bangsa terkandung dalam Pembukaan UUD 1945 alinea kedua."
+    "correctAnswer": 3,
+    "explanation": "Makna kemerdekaan sebagai jalan untuk mewujudkan cita-cita bangsa terkandung dalam Pembukaan UUD 1945 alinea keempat."
   },
   {
     "id": 19,
@@ -347,8 +347,8 @@ export const questions: Question[] = [
       "4",
       "5"
     ],
-    "correctAnswer": 2,
-    "explanation": "Hak warga negara untuk mendapatkan fasilitas kesehatan yang layak diatur dalam Pasal 28H ayat (1) UUD 1945, yang merupakan hasil amandemen ketiga."
+    "correctAnswer": 3,
+    "explanation": "Hak warga negara untuk mendapatkan fasilitas kesehatan yang layak diatur dalam Pasal 34 ayat (3) UUD 1945, yang merupakan hasil amandemen 4."
   },
   {
     "id": 26,
