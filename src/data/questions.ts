@@ -27,1302 +27,1062 @@ function transformQuestion(q: any): Question {
 export const questions: Question[] = [
   {
     "id": 1,
-    "question": "Pancasila memenuhi syarat sebagai staats fundamental norm karena tercantum dalam pembukaan UUD 1945. Yang dimaksud Pancasila sebagai staats fundamental norm adalah..",
-    "options": [
-      "Pancasila berfungsi untuk memberikan pandangan bagi bangsa lain",
-      "Pancasila sebagai sumber hukum tertinggi dan kedudukannya tidak dapat dirubah",
-      "Pancasila sebagai peraturan untuk mengatur hidup orang banyak",
-      "Pancasila sebagai dasar hukum",
-      "Norma yang berlaku di Indonesia disesuaikan dengan norma norma yg berlaku di dunia"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Pancasila sebagai staats fundamental norm berarti Pancasila adalah sumber hukum tertinggi dan kedudukannya tidak dapat dirubah."
+    "question": "Sampai dengan tahun 2002, UUD 1945 telah mengalami amandemen sebanyak",
+    "options": ["Satu kali", "Dua kali", "Tiga kali", "Empat kali", "Lima kali"],
+    "correctAnswer": 3,
+    "explanation": "Sampai dengan tahun 2002, UUD 1945 telah mengalami amandemen sebanyak empat kali."
   },
   {
     "id": 2,
-    "question": "Masyarakat Indonesia mempunyai cita-cita bersama yang harus diwujudkan untuk kesejahteraan seluruh rakyat. Berbagai cara dilakukan agar cita-cita tersebut dapat terwujud. Hal ini karena Pancasila berperan sebagai...",
-    "options": [
-      "falsafah bangsa",
-      "dasar negara",
-      "ideologi negara",
-      "cita-cita bangsa",
-      "instrumen bangsa"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Pancasila berperan sebagai ideologi negara yang memuat cita-cita bangsa dan menjadi pedoman dalam mewujudkannya."
+    "question": "Piagam Jakarta ditandatangani pada",
+    "options": ["22 Juni 1954", "22 Juni 1945", "12 Juli 1945", "17 Agustus 1945", "18 Agustus 1945"],
+    "correctAnswer": 1,
+    "explanation": "Piagam Jakarta ditandatangani pada 22 Juni 1945."
   },
   {
     "id": 3,
-    "question": "Peraturan yang ada di negara ini, baik itu yang tertulis maupun tidak tertulis semuanya harus bersumber pada Pancasila, karena Pancasila sebagai...",
+    "question": "Perbedaan isi Piagam Jakarta dengan Pembukaan UUD 1945 adalah",
     "options": [
-      "ideologi bangsa",
-      "falsafah bangsa",
-      "instrumen bangsa",
-      "dasar Negara",
-      "tujuan Negara"
+      "Perbedaan pandangan mengenai sistem sosial Indonesia",
+      "Perbedaan pandangan mengenai sistem politik Indonesia",
+      "Pada Piagam Jakarta disebutkan adanya kewajiban menjalankan syariat Islam bagi pemeluknya sedangkan pada UUD 1945 tidak",
+      "Pada Pembukaan UUD 1945 disebutkan lima sila",
+      "Perbedaan pandangan mengenai penghapusan penjajahan"
     ],
-    "correctAnswer": 3,
-    "explanation": "Pancasila adalah dasar negara, sehingga semua peraturan harus bersumber padanya."
+    "correctAnswer": 2,
+    "explanation": "Perbedaan utama antara Piagam Jakarta dan Pembukaan UUD 1945 adalah adanya frasa 'dengan kewajiban menjalankan syariat Islam bagi pemeluk-pemeluknya' di Piagam Jakarta yang kemudian dihilangkan dari Pembukaan UUD 1945."
   },
   {
     "id": 4,
-    "question": "Pancasila sebagai dasar negara Indonesia melewati proses yang panjang hingga akhirnya sampai pada perumusan final, yaitu pengesahan konstitusional. Pengesahan Pancasila sebagai dasar negara terjadi pada tanggal...",
+    "question": "Pasal 1 ayat 1 UUD 1945 berbunyi :",
     "options": [
-      "1 Juni 1945",
-      "22 Juni 1945",
-      "17 Agustus 1945",
-      "18 Agustus 1945",
-      "19 Agustus 1945"
+      "Negara Indonesia adalah negara kesatuan",
+      "Negara Indonesia adalah negara republik",
+      "Negara Indonesia adalah negara kesatuan sekaligus republik",
+      "Negara Indonesia adalah negara kesatuan yang berbentuk republik",
+      "Negara Indonesia adalah negara kesatuan dan republik"
     ],
     "correctAnswer": 3,
-    "explanation": "Pancasila disahkan sebagai dasar negara pada tanggal 18 Agustus 1945 oleh PPKI."
+    "explanation": "Pasal 1 ayat 1 UUD 1945 berbunyi: 'Negara Indonesia adalah negara kesatuan yang berbentuk Republik.'"
   },
   {
     "id": 5,
-    "question": "Pancasila menjadi petunjuk untuk membuat aturan hukum serta pedoman untuk kehidupan bernegara. Hal ini karena Pancasila merupakan...",
-    "options": [
-      "Dasar dan ideologi Negara",
-      "Kemauan Negara",
-      "Keputusan bersama seluruh rakyat",
-      "Pemikiran negara baru",
-      "Perangkat yang digunakan untuk menjalankan roda pemerintahan"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Pancasila adalah dasar dan ideologi negara yang menjadi petunjuk dalam pembentukan aturan hukum dan pedoman bernegara."
+    "question": "Berdasarkan UUD 1945 pasal 1 ayat 2, maka dapat ditegaskan bahwa dalam sistem perpolitikan Indonesia, kedaulatan adalah di tangan :",
+    "options": ["Presiden", "DPR", "MPR", "Rakyat", "MPR dilaksanakan oleh Presiden"],
+    "correctAnswer": 3,
+    "explanation": "Berdasarkan UUD 1945 pasal 1 ayat 2, kedaulatan berada di tangan rakyat dan dilaksanakan menurut Undang-Undang Dasar."
   },
   {
     "id": 6,
-    "question": "Sikap menjunjung tinggi keadilan, menjaga kelestarian lingkungan sekitar, serta menghormati pemeluk agama lain merupakan salah satu contoh pengamalan nilai Pancasila dalam kehidupan sehari-hari. Nilai Pancasila yang dimaksud adalah...",
+    "question": "Berdasarkan UUD 1945 amandemen ketiga 9 November 2001, pasal 1 bertambah satu ayat. Ayat tambahan ini menyatakan bahwa Indonesia adalah negara",
     "options": [
-      "Nilai kerohanian",
-      "Nilai filosofis",
-      "Nilai filsafat",
-      "Nilai abstrak",
-      "Nilai umum"
+      "Negara demokrasi",
+      "Negara persatuan",
+      "Negara hukum",
+      "Negara kepulauan",
+      "Negara taat peraturan internasional"
     ],
-    "correctAnswer": 1,
-    "explanation": "Nilai-nilai keadilan, kelestarian lingkungan, dan toleransi beragama adalah contoh pengamalan nilai-nilai filosofis Pancasila."
+    "correctAnswer": 2,
+    "explanation": "Berdasarkan UUD 1945 amandemen ketiga, Pasal 1 Ayat (3) menyatakan bahwa 'Negara Indonesia adalah negara hukum'."
   },
   {
     "id": 7,
-    "question": "Piagam Jakarta berisi perlawanan terhadap imperialisme, kapitalisme, fasisme, serta memulai dasar pembentukan Republik Indonesia. Sebelum akhirnya dijadikan sebagai Pembukaan UUD 1945, naskah Piagam Jakarta disusun untuk dijadikan teks Proklamasi kemerdekaan Indonesia oleh panitia yang merumuskannya. Yang merumuskan Piagam Jakarta adalah.....",
-    "options": [
-      "BPUPKI",
-      "PPKI",
-      "Muh. Yamin",
-      "Panitia kecil",
-      "Panitia Sembilan"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Piagam Jakarta dirumuskan oleh Panitia Sembilan."
+    "question": "Berdasarkan UUD 1945 amandemen keempat, 10 Agustus 2002, anggota MPR terdiri dari",
+    "options": ["DPR + DPD", "DPR + Utusan Golongan", "DPR + Fraksi tambahan", "DPR + Utusan Propinsi", "DPR + DPA"],
+    "correctAnswer": 0,
+    "explanation": "Berdasarkan UUD 1945 amandemen keempat, Pasal 2 Ayat (1) menyatakan bahwa 'Majelis Permusyawaratan Rakyat terdiri atas anggota Dewan Perwakilan Rakyat dan anggota Dewan Perwakilan Daerah yang dipilih melalui pemilihan umum dan diatur lebih lanjut dengan undang-undang'."
   },
   {
     "id": 8,
-    "question": "Pembukaan UUD 1945 merupakan penyebab Batang Tubuh UUD 1945. hal tersebut merupakan maksud hubungan Pembukaan UUD 1945 dengan Batang Tubuh UUD 1945 yang bersifat...",
-    "options": [
-      "Fundamental",
-      "Formal",
-      "Kausal",
-      "Ketetapan",
-      "Permanen"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Hubungan antara Pembukaan UUD 1945 dan Batang Tubuh UUD 1945 bersifat kausal, artinya Pembukaan adalah sebab dari adanya Batang Tubuh."
+    "question": "Payung hukum yang dipakai untuk melakukan amandemen atau perubahan UUD 1945 adalah",
+    "options": ["Pasal 3 dan pasal 37", "Pasal 3", "Pasal 37", "Pasal 27", "Pasal 27 dan pasal 37"],
+    "correctAnswer": 0,
+    "explanation": "Payung hukum untuk melakukan amandemen UUD 1945 adalah Pasal 3 dan Pasal 37 UUD 1945."
   },
   {
     "id": 9,
-    "question": "Alasan Yuridis pembukaan UUD 1945 tidak dapat diubah adalah....",
+    "question": "Sebelum diamandemen, pasal 5 ayat 1 menyatakan bahwa Presiden memegang kekuasaan membentuk Undang-undang dengan persetujuan DPR. Setelah diamandemen yang pertama, 19 Oktober 1999, pasal 5 ayat 1 berbunyi",
     "options": [
-      "Pembukaan UUD 1945 tetap melekat erat dengan terbentuknya Negara",
-      "Pembukaan adalah pokok kaidah negara yang fundamental",
-      "Proklamasi merupakan kehendak Tuhan",
-      "Berhubungan dengan nasib warga negara",
-      "Jika diubah akan mengubah nilai dasar yang ada di dalamnya"
+      "Presiden berhak mengajukan rancangan Undang-undang kepada DPR",
+      "Presiden menetapkan Undang-undang tanpa harus melalui persetujuan DPR",
+      "Presiden bersama-sama DPR menetapkan Undang- undang dengan persetujuan MPR",
+      "DPR membuat Undang-undang dengan persetujuan Presiden",
+      "DPR memegang kekuasaan menetapkan Undang- undang"
     ],
-    "correctAnswer": 1,
-    "explanation": "Pembukaan UUD 1945 tidak dapat diubah karena merupakan pokok kaidah negara yang fundamental (Staatsfundamentalnorm)."
+    "correctAnswer": 0,
+    "explanation": "Setelah amandemen pertama, Pasal 5 ayat 1 UUD 1945 berbunyi: 'Presiden berhak mengajukan rancangan undang-undang kepada Dewan Perwakilan Rakyat.'"
   },
   {
     "id": 10,
-    "question": "Didalam UUD 1945 terdapat bab yang mengatur tentang perubahan Undang-Undang. Hal khusus yang tidak dapat dilakukan perubahan adalah...",
-    "options": [
-      "Pasal UUD",
-      "Bentuk negara",
-      "Agenda sidang MPR",
-      "Pelaksanaan pemerintahan",
-      "Peraturan presiden"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Bentuk Negara Kesatuan Republik Indonesia (NKRI) tidak dapat diubah berdasarkan UUD 1945."
+    "question": "Pemilihan Presiden dan Wakil Presiden dalam satu pasangan dan dipilih secara langsung oleh rakyat, adalah berdasarkan pada",
+    "options": ["UUD 1945 pasal 6A", "UUD 1945 pasal 6B", "UUD 1945 pasal 7C", "UUD 1945 pasal 8", "UUD 1945 pasal 10"],
+    "correctAnswer": 0,
+    "explanation": "Pemilihan Presiden dan Wakil Presiden secara langsung oleh rakyat diatur dalam UUD 1945 Pasal 6A."
   },
   {
     "id": 11,
-    "question": "Apabila RUU yang telah disetujui bersama tidak disahkan presiden dalam jangka waktu 30 hari semenjak RUU tersebut disetujui maka...",
-    "options": [
-      "RUU tersebut tidak dapat digunakan",
-      "Sah menjadi UU dan harus diundangkan",
-      "RUU tersebut batal demi hukum",
-      "DPR meminta presiden untuk segera mengesahkan RUU tersebut",
-      "Harus diajukan kembali pada sidang masa berikutnya"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Menurut Pasal 20 ayat (5) UUD 1945, jika RUU yang telah disetujui DPR dan Presiden tidak disahkan Presiden dalam waktu 30 hari, maka RUU tersebut sah menjadi undang-undang dan wajib diundangkan."
+    "question": "Dasar hukum bagi MPR untuk memberhentikan Presiden karena penghianatan negara, korupsi, penyuapan, tindak pidana berat, perbuatan tercela, atau terbukti tidak lagi memenuhi syarat sebagai Presiden, adalah",
+    "options": ["Pasal 17", "Pasal 8 B", "Pasal 7A", "Pasal 6", "Pasal 1"],
+    "correctAnswer": 2,
+    "explanation": "Dasar hukum bagi MPR untuk memberhentikan Presiden karena alasan tersebut diatur dalam UUD 1945 Pasal 7A."
   },
   {
     "id": 12,
-    "question": "Pihak atau lembaga yang mempunyai wewenang untuk memberikan gelar, tanda jasa, dan tanda kehormatan lainnya adalah.....",
+    "question": "Berdasarkan UUD 1945 pasal 7C, maka pernyataan manakah yang benar ?",
     "options": [
-      "Presiden",
-      "MPR",
-      "DPR",
-      "Mahkamah Agung",
-      "Komisi Yudisial"
+      "Presiden berhak membekukan DPR jika terjadi suatu kegentingan negara",
+      "Presiden dengan persetujuan MPR dapat membubarkan DPR demi kepentingan negara",
+      "Presiden tak dapat membekukan ataupun membubarkan DPR",
+      "Presiden tak dapat membubarkan DPR, namun hanya membekukan",
+      "Presiden tak dapat membekukan DPR, namun justeru berhak membubarkannya dengan alasan yang diterima rakyat"
     ],
-    "correctAnswer": 0,
-    "explanation": "Berdasarkan UUD 1945 Pasal 15, Presiden memberi gelar, tanda jasa, dan lain-lain tanda kehormatan."
+    "correctAnswer": 2,
+    "explanation": "Berdasarkan UUD 1945 Pasal 7C, 'Presiden tidak dapat membekukan dan/atau membubarkan Dewan Perwakilan Rakyat.'"
   },
   {
     "id": 13,
-    "question": "Kedudukan Pancasila sebagai dasar negara Indonesia tercantum dalam...",
-    "options": [
-      "Pembukaan UUD 1945 alinea kedua",
-      "Pembukaan UUD 1945 alinea ketiga",
-      "Pembukaan UUD 1945 alinea keempat",
-      "Batang tubuh UUD 1945",
-      "TAP MPR"
-    ],
+    "question": "Pasal 8 ayat 2 UUD 1945 menyatakan bahwa jika terjadi kekosongan wakil presiden, maka Presiden mengusulkan dua calon kepada MPR, yang akan ditetapkan dalam sidang MPR. Waktu penetapan calon presiden ini adalah maksimal",
+    "options": ["40 hari", "50 hari", "60 hari", "75 hari", "100 hari"],
     "correctAnswer": 2,
-    "explanation": "Kedudukan Pancasila sebagai dasar negara Indonesia tercantum dalam Pembukaan UUD 1945 alinea keempat."
+    "explanation": "Pasal 8 ayat 2 UUD 1945 menyatakan bahwa pengisian kekosongan wakil presiden harus dilakukan dalam waktu selambat-lambatnya 60 hari."
   },
   {
     "id": 14,
-    "question": "Berdasarkan UU No. 12 Tahun 2011 yang menjadi urutan tertinggi perundangan Republik Indonesia adalah...",
+    "question": "Jika terjadi kekosongan Presiden dan Wapres, maka tugas kepresidenan akan diisi sementara oleh :",
     "options": [
-      "Pancasila",
-      "UUD 1945",
-      "Undang-Undang",
-      "Ketetapan MPR",
-      "Peraturan Presiden"
+      "Menteri dalam negeri",
+      "Menteri luar negeri",
+      "Menteri pertahanan",
+      "Menteri dalam negeri, Menteri luar negeri dan Menteri pertahanan",
+      "Menteri dalam negeri dan Menteri pertahanan"
     ],
-    "correctAnswer": 1,
-    "explanation": "Menurut UU No. 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan, hierarki peraturan perundang-undangan tertinggi adalah UUD 1945."
+    "correctAnswer": 3,
+    "explanation": "Jika Presiden dan Wakil Presiden mangkat, berhenti, diberhentikan, atau tidak dapat melakukan kewajibannya dalam masa jabatannya secara bersamaan, pelaksana tugas kepresidenan adalah Menteri Luar Negeri, Menteri Dalam Negeri, dan Menteri Pertahanan secara bersama-sama. Ini diatur dalam UUD 1945 Pasal 8 ayat 3."
   },
   {
     "id": 15,
-    "question": "Pengaturan mengenai Hak Asasi Manusia pada UUD 1945 terletak pada bab...",
-    "options": [
-      "XV",
-      "XVI",
-      "XA",
-      "XII",
-      "V"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Pengaturan mengenai Hak Asasi Manusia pada UUD 1945 terletak pada Bab XA (Pasal 28A sampai 28J)."
+    "question": "Pasal 11 ayat 2 menyatakan bahwa jika Presiden membuat perjanjian internasional yang memberikan dampak luas bagi rakyat dengan terkait keuangan negara, maka harus melalui persetujuan",
+    "options": ["Bank Indonesia", "BPK", "MPR", "DPR", "Menko Ekuin dan DPR"],
+    "correctAnswer": 3,
+    "explanation": "Pasal 11 ayat 2 UUD 1945 menyatakan bahwa 'Presiden dalam membuat perjanjian internasional lainnya yang menimbulkan akibat yang luas dan mendasar bagi kehidupan rakyat yang terkait dengan beban keuangan negara, dan/atau mengharuskan perubahan atau pembentukan undang-undang harus dengan persetujuan Dewan Perwakilan Rakyat.'"
   },
   {
     "id": 16,
-    "question": "Peraturan daerah berada di urutan terakhir pada hierarki perundangan. Peraturan daerah dibuat oleh.....",
-    "options": [
-      "DPR",
-      "DPRD",
-      "Gubernur",
-      "DPRD dan Gubernur",
-      "DPR dan DPRD"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Peraturan daerah dibuat oleh Dewan Perwakilan Rakyat Daerah (DPRD) bersama dengan Gubernur/Bupati/Wali Kota."
+    "question": "Presiden berhak membentuk Wantimpres (Dewan Pertimbangan Presiden) yang bertugas memberikan nasihat dan pertimbangan kepada Presiden, karena dijamin oleh UUD 1945 pasal",
+    "options": ["Pasal 16", "Pasal 17", "Pasal 18", "Pasal 19", "Pasal 20"],
+    "correctAnswer": 0,
+    "explanation": "Pembentukan Dewan Pertimbangan Presiden diatur dalam UUD 1945 Pasal 16."
   },
   {
     "id": 17,
-    "question": "Dalam kehidupan yang berdasarkan Pancasila, kehidupan masyarakat tidak dapat dipisahkan satu dengan yang lainnya, begitu pula dalam perekonomian yang harus mengedepankan kepentingan bersama. Hal ini sesuai dengan prinsip Pancasila yaitu sila...",
+    "question": "Penghapusan Dewan Pertimbangan Agung (DPA) adalah berdasarkan amandemen UUD 1945 yang ke….",
     "options": [
-      "Ketuhanan yang maha Esa",
-      "Kemanusiaan yang adil dan beradab",
-      "Persatuan Indonesia",
-      "Kerakyatan yang dipimpin oleh hikmat dalam permusyawaratan/perwakilan",
-      "Keadilan sosial bagi seluruh rakyat Indonesia"
+      "Amandemen pertama",
+      "Amandemen kedua",
+      "Amandemen ketiga",
+      "Amandemen keempat",
+      "Amandemen kelima"
     ],
-    "correctAnswer": 4,
-    "explanation": "Prinsip mengedepankan kepentingan bersama dalam perekonomian dan tidak dapat dipisahkan satu dengan lainnya sesuai dengan sila kelima Pancasila: Keadilan sosial bagi seluruh rakyat Indonesia."
+    "correctAnswer": 3,
+    "explanation": "Penghapusan Dewan Pertimbangan Agung (DPA) dilakukan berdasarkan Amandemen Keempat UUD 1945."
   },
   {
     "id": 18,
-    "question": "Kemerdekaan merupakan jalan untuk mewujudkan cita-cita bangsa merupakan makna yang terkandung dari pembukaan UUD 1945 alinea...",
+    "question": "Berdasarkan pasal 17 ayat 4 UUD 1945 berbunyi : 'Pembentukan, pengubahan dan pembubaran kementrian negara….. '",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4",
-      "5"
+      "Adalah wewenang penuh Presiden",
+      "Adalah atas usul Presiden yang disetujui oleh DPR",
+      "Diatur dalam Undang-undang",
+      "Ditetapkan dalam Sidang Umum MPR",
+      "Ditetapkan oleh Presiden dengan memperhatikan usul DPR"
     ],
-    "correctAnswer": 3,
-    "explanation": "Makna kemerdekaan sebagai jalan untuk mewujudkan cita-cita bangsa terkandung dalam Pembukaan UUD 1945 alinea keempat."
+    "correctAnswer": 2,
+    "explanation": "Berdasarkan Pasal 17 ayat 4 UUD 1945, 'Pembentukan, pengubahan, dan pembubaran kementerian negara diatur dalam undang-undang.'"
   },
   {
     "id": 19,
-    "question": "Kekuasaan kehakiman merupakan lembaga yang kedua tanpa campur tangan pihak lain untuk dapat menegakkan hukum yang penuh dengan keadilan. Lembaga yang memegang kekuasaan kehakiman di Indonesia adalah.....",
-    "options": [
-      "Komisi Yudisial",
-      "Kejaksaan Agung",
-      "Komisi Pemberantasan Korupsi",
-      "DPR",
-      "Mahkamah Agung"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Mahkamah Agung adalah salah satu lembaga yang memegang kekuasaan kehakiman di Indonesia, bersama dengan Mahkamah Konstitusi."
+    "question": "Berdasarkan UUD 1945 pasal 14 ayat 1, Presiden memberikan grasi dan rehabilitasi dengan memperhatikan pertimbangan",
+    "options": ["Mahkamah Agung", "Mahkamah Konstitusi", "Mahkamah Militer", "DPR", "MPR"],
+    "correctAnswer": 0,
+    "explanation": "Berdasarkan UUD 1945 Pasal 14 ayat 1, Presiden memberikan grasi dan rehabilitasi dengan memperhatikan pertimbangan Mahkamah Agung."
   },
   {
     "id": 20,
-    "question": "UUD 1945 sudah mengalami amandemen sebanyak 4 kali. Amandemen UUD 1945 yang kedua dilangsungkan pada tanggal...",
-    "options": [
-      "12-21 Oktober 1998",
-      "14-21 Oktober 1999",
-      "7-18 Agustus 2000",
-      "1-9 November 2001",
-      "19-26 Agustus 2001"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Amandemen UUD 1945 yang kedua dilangsungkan pada 7-18 Agustus 2000."
+    "question": "Berdasarkan UUD 1945 pasal 14 ayat 2, Presiden memberikan amnesty dan abolisi dengan memperhatikan pertimbangan",
+    "options": ["DPA", "DPR", "MPR", "Mahkamah Agung", "Jaksa Agung"],
+    "correctAnswer": 1,
+    "explanation": "Berdasarkan UUD 1945 Pasal 14 ayat 2, Presiden memberikan amnesti dan abolisi dengan memperhatikan pertimbangan Dewan Perwakilan Rakyat (DPR)."
   },
   {
     "id": 21,
-    "question": "Negara mempunyai hak untuk memperoleh kemerdekaan. Hal ini tercantum pada....",
-    "options": [
-      "Batang tubuh pasal 1 ayat 1",
-      "Batang tubuh pasal 2 ayat 1",
-      "Pembukan alinea 1",
-      "Pembukaan alinea 4",
-      "Batang tubuh pasal 1 ayat 3"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Hak bangsa untuk merdeka tercantum dalam Pembukaan UUD 1945 alinea pertama."
+    "question": "Pemberian gelar, tanda jasa dan kehormatan oleh Presiden, diatur dengan Undang-undang. Hal ini dinyatakan dalam UUD 1945 pasal",
+    "options": ["Pasal 12", "Pasal 13", "Pasal 14", "Pasal 15", "Pasal 16"],
+    "correctAnswer": 3,
+    "explanation": "Pemberian gelar, tanda jasa, dan lain-lain kehormatan oleh Presiden diatur dalam UUD 1945 Pasal 15."
   },
   {
     "id": 22,
-    "question": "UUD 1945 telah mengalami 4 kali amandemen. Aturan peralihan pada UUD 1945 setelah amandemen memiliki...",
-    "options": [
-      "1 Pasal",
-      "2 Pasal",
-      "3 Pasal",
-      "4 Pasal",
-      "5 Pasal"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Aturan peralihan pada UUD 1945 setelah amandemen memiliki 3 pasal."
+    "question": "Hubungan antara Pemerintah pusat dengan pemerintah daerah adalah memperhatikan kekhususan dan keragaman daerah tersebut. Hal ini didasarkan pada UUD 1945",
+    "options": ["Pasal 18A ayat 1", "Pasal 18A ayat 2", "Pasal 18", "Pasal 19 ayat 1", "Pasal 19 ayat 2"],
+    "correctAnswer": 0,
+    "explanation": "Hubungan wewenang antara pemerintah pusat dan pemerintah daerah provinsi, kabupaten, dan kota, diatur dengan undang-undang dengan memperhatikan kekhususan dan keragaman daerah, ini diatur dalam UUD 1945 Pasal 18A ayat 1."
   },
   {
     "id": 23,
-    "question": "Hak dan kewajiban warga negara untuk ikut serta dalam usaha pertahanan dan keamanan negara diatur melalui UUD 1945 Pasal...",
-    "options": [
-      "26 Ayat 1",
-      "27 Ayat 1",
-      "27 Ayat 2",
-      "30 Ayat 1",
-      "30 Ayat 2"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Hak dan kewajiban warga negara dalam usaha pertahanan dan keamanan negara diatur dalam UUD 1945 Pasal 30 ayat (1)."
+    "question": "Ketika masa Orde Baru pengelolaan keuangan Pusat-Daerah sangat timpang. Hampir semuanya dikuasai oleh pusat. Namun setelah era Reformasi ini, setelah UUD 1945 diamandemen, maka pengelolaan keuangan harus selaras dan adil. Hal ini tercantum dalam UUD 1945",
+    "options": ["Pasal 18 A ayat 1", "Pasal 18", "Pasal 19", "Pasal 33", "Pasal 18 A ayat 2"],
+    "correctAnswer": 4,
+    "explanation": "Pengelolaan keuangan Pusat-Daerah yang selaras dan adil setelah amandemen UUD 1945 tercantum dalam UUD 1945 Pasal 18A ayat 2."
   },
   {
     "id": 24,
-    "question": "Lembaga yang wajib memberikan putusan atas pendapat DPR mengenai pelanggaran yang dilakukan presiden dan/atau wakil presiden adalah.....",
-    "options": [
-      "Mahkamah Agung",
-      "Mahkamah Konstitusi",
-      "MPR",
-      "Komisi Yudisial",
-      "DPR"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Mahkamah Konstitusi berwenang mengadili pada tingkat pertama dan terakhir yang putusannya bersifat final untuk menguji undang-undang terhadap Undang-Undang Dasar, memutus sengketa kewenangan lembaga negara yang kewenangannya diberikan oleh Undang-Undang Dasar, memutus pembubaran partai politik, dan memutus perselisihan tentang hasil pemilihan umum, serta memutus pendapat Dewan Perwakilan Rakyat mengenai dugaan pelanggaran oleh Presiden dan/atau Wakil Presiden menurut Undang-Undang Dasar."
+    "question": "Kesatuan masyarakat hukum yang ada di Indonesia ini sebenarnya dihormati oleh negara. Hal ini sesuai dengan UUD 1945",
+    "options": ["Pasal 8", "Pasal 9", "Pasal 18 B ayat 2", "Pasal 18 B ayat 1", "Pasal 22"],
+    "correctAnswer": 2,
+    "explanation": "Kesatuan masyarakat hukum adat beserta hak-hak tradisionalnya dihormati oleh negara, ini diatur dalam UUD 1945 Pasal 18B ayat 2."
   },
   {
     "id": 25,
-    "question": "Setiap warga negara berhak mendapatkan fasilitas kesehatan yang layak. Hal ini diatur dalam UUD 1945 yang merupakan hasil amandemen ke..",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4",
-      "5"
-    ],
+    "question": "Berdasarkan UUD 1945 pasal 20, Presiden bersama DPR membahas Rancangan Undang-undang (RUU) lalu haruslah mendapatkan persetujuan bersama. Setelah RUU tersebut disepakati, lalu RUU tersebut akan disahkan oleh…",
+    "options": ["Mahkamah Konstitusi", "Disahkan berdua, Presiden bersama DPR", "Hakim Agung", "Presiden", "DPR"],
     "correctAnswer": 3,
-    "explanation": "Hak warga negara untuk mendapatkan fasilitas kesehatan yang layak diatur dalam Pasal 34 ayat (3) UUD 1945, yang merupakan hasil amandemen 4."
+    "explanation": "Berdasarkan UUD 1945 Pasal 20, setiap rancangan undang-undang yang telah disetujui bersama oleh Dewan Perwakilan Rakyat dan Presiden untuk disahkan menjadi undang-undang."
   },
   {
     "id": 26,
-    "question": "Perjuangan Indonesia menentang ketidak adilan termuat pada pembukaan UUD 1945 alinea...",
-    "options": [
-      "1 dan 3",
-      "4",
-      "2 dan 4",
-      "3 dan 2",
-      "1 dan 4"
-    ],
+    "question": "Jika kita mengacu pada UUD 1945 pasal 19 ayat 3, maka dalam satu tahun, DPR minimal akan bersidang sebanyak",
+    "options": ["Satu kali", "Dua kali", "Tiga kali", "Empat kali", "Lima kali"],
     "correctAnswer": 0,
-    "explanation": "Perjuangan Indonesia menentang ketidakadilan termuat pada Pembukaan UUD 1945 alinea pertama ('bahwa sesungguhnya kemerdekaan itu ialah hak segala bangsa dan oleh sebab itu, maka penjajahan di atas dunia harus dihapuskan karena tidak sesuai dengan perikemanusiaan dan perikeadilan') dan alinea ketiga ('Atas berkat rahmat Allah Yang Maha Kuasa dan dengan didorongkan oleh keinginan luhur, supaya berkehidupan kebangsaan yang bebas, maka rakyat Indonesia menyatakan dengan ini kemerdekaannya.')."
+    "explanation": "UUD 1945 Pasal 19 ayat 3 menyatakan bahwa 'Dewan Perwakilan Rakyat bersidang sedikitnya satu kali dalam 1 (satu) tahun.'"
   },
   {
     "id": 27,
-    "question": "RUU APBN diajukan oleh presiden untuk dibahas bersama DPR harus memperhatikan pertimbangan.....",
-    "options": [
-      "MPR",
-      "DPD",
-      "BPK",
-      "BPKP",
-      "Menteri Keuangan"
-    ],
+    "question": "UUD 1945 pasal berapakah yang menyebutkan hak-hak DPR seperti hak interpelasi, hak menyatakan pendapat, dan hak angket. ?",
+    "options": ["Pasal 20 A ayat 1", "Pasal 20 A ayat 2", "Pasal 20 A ayat 3", "Pasal 20 A ayat 4", "Pasal 20 A ayat 5"],
     "correctAnswer": 1,
-    "explanation": "RUU APBN yang diajukan oleh presiden dan dibahas bersama DPR harus memperhatikan pertimbangan Dewan Perwakilan Daerah (DPD)."
+    "explanation": "Hak-hak DPR seperti hak interpelasi, hak angket, dan hak menyatakan pendapat diatur dalam UUD 1945 Pasal 20A ayat 2."
   },
   {
     "id": 28,
-    "question": "Negara yang melindungi segenap bangsa dan seluruh tumpah darah Indonesia merupakan penjabaran sila ke...",
+    "question": "Berdasarkan UUD 1945 pasal 20 A ayat 1, fungsi DPR adalah",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4",
-      "5"
+      "Fungsi legislasi dan fungsi angket, serta fungsi pengawasan",
+      "Fungsi anggaran dan fungsi interpelasi",
+      "Fungsi legislasi, fungsi anggaran dan fungsi pengawasan",
+      "Fungsi legislasi dan fungsi pengawan",
+      "Fungsi interpelasi, fungsi angket, fungsi pernyataan pendapat"
     ],
     "correctAnswer": 2,
-    "explanation": "Melindungi segenap bangsa dan seluruh tumpah darah Indonesia adalah penjabaran dari sila ketiga Pancasila: Persatuan Indonesia."
+    "explanation": "Berdasarkan UUD 1945 Pasal 20A ayat 1, DPR memiliki fungsi legislasi, fungsi anggaran, dan fungsi pengawasan."
   },
   {
     "id": 29,
-    "question": "Proses pembuatan Pancasila menjadi dasar negara melalui proses yang panjang. Yang memperkenalkan istilah Pancasila pertama kali adalah...",
-    "options": [
-      "Drs. Moh. Hatta",
-      "Muh. Yamin",
-      "Ir. Soekarno",
-      "Soepomo",
-      "DR Radjiman"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Istilah Pancasila pertama kali diperkenalkan oleh Ir. Soekarno dalam pidatonya pada tanggal 1 Juni 1945."
+    "question": "Pemilu di Indonesia harus dilaksanakan dengan LUBER JURDIL (Langsung, Umum, Bebas, Rahasia, Jujur, Adil). Hal ini sesuai dengan pernyataan pada UUD 1945",
+    "options": ["Pasal 22 E ayat 1", "Pasal 22 E ayat 2", "Pasal 22 E ayat 3", "Pasal 22 E ayat 4", "Pasal 22 E ayat 5"],
+    "correctAnswer": 0,
+    "explanation": "Pelaksanaan Pemilu yang LUBER JURDIL diatur dalam UUD 1945 Pasal 22E ayat 1."
   },
   {
     "id": 30,
-    "question": "Yang dimaksud dengan nasionalisme religius adalah...",
-    "options": [
-      "Menjunjung tinggi Negara di kancah internasional",
-      "Perasaan bangga terhadap Negara yang berlebihan dan merasa paling benar",
-      "Semangat berbangsa dan bernegara beragama",
-      "Semangat kebangsaan yang dilandasi moral dan nilai ketuhanan",
-      "Negara berdasarkan hukum agama"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Nasionalisme religius adalah semangat kebangsaan yang dilandasi moral dan nilai ketuhanan."
+    "question": "Hal Keuangan diatur dalam UUD 1945 pada BAB VIII yaitu, pasal",
+    "options": ["Pasal 28", "Pasal 22", "Pasal 23", "Pasal 24", "Pasal 31"],
+    "correctAnswer": 2,
+    "explanation": "Hal keuangan diatur dalam UUD 1945 pada BAB VIII, Pasal 23."
   },
   {
     "id": 31,
-    "question": "'Atas berkat rahmat Allah Yang Maha Kuasa...' adalah cuplikan pembukaan UUD 1945 alinea ketiga yang memiliki makna...",
+    "question": "Pasal 24 UUD 1945 berbicara mengenai",
     "options": [
-      "Momentum pernyataan kemerdekaan",
-      "Kemerdekaan harus diisi oleh program pembangunan",
-      "Kehidupan seimbang antara kebutuhan spiritual dan materiel",
-      "Motivasi luhur dan spiritual terhadap kemerdekaan",
-      "Kemerdekaan adalah tujuan akhir negara Indonesia"
+      "Kedaulatan Ekonomi",
+      "Kedaulatan wilayah negara",
+      "Kekuasaan kehakiman",
+      "Kekuasaan politik",
+      "Administrasi negara"
     ],
-    "correctAnswer": 3,
-    "explanation": "Frasa 'Atas berkat rahmat Allah Yang Maha Kuasa...' pada Pembukaan UUD 1945 alinea ketiga menunjukkan motivasi luhur dan spiritual terhadap kemerdekaan."
+    "correctAnswer": 2,
+    "explanation": "Pasal 24 UUD 1945 berbicara mengenai kekuasaan kehakiman."
   },
   {
     "id": 32,
-    "question": "Saling menghormati dan tidak membeda-bedakan manusia berdasarkan suku atau golongan merupakan salah satu contoh yang terkandung dalam sila...",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4",
-      "5"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Sikap saling menghormati dan tidak membeda-bedakan manusia berdasarkan suku atau golongan merupakan contoh pengamalan sila kedua Pancasila: Kemanusiaan yang adil dan beradab."
+    "question": "Yang berhak mengangkat hakim agung serta menegakkan kehormatan perilaku hakim menurut pasal 24B adalah",
+    "options": ["Komisi Yudisial", "Mahkamah agung", "Jaksa agung", "DPR", "Presiden"],
+    "correctAnswer": 0,
+    "explanation": "Komisi Yudisial berwenang mengusulkan pengangkatan hakim agung dan mempunyai wewenang lain dalam rangka menjaga dan menegakkan kehormatan, keluhuran martabat, serta perilaku hakim. Hal ini diatur dalam UUD 1945 Pasal 24B."
   },
   {
     "id": 33,
-    "question": "Negara Indonesia merupakan negara demokrasi. Hal tersebut merupakan penjabaran sila...",
+    "question": "Tugas Mahkamah konstitusi (MK) berdasarkan pasal 24C adalah berikut ini, kecuali",
     "options": [
-      "Ketuhanan yang maha Esa",
-      "Kemanusiaan yang adil dan beradab",
-      "Persatuan Indonesia",
-      "Kerakyatan yang dipimpin oleh hikmat dalam permusyawaratan/perwakilan",
-      "Keadilan sosial bagi seluruh rakyat Indonesia"
+      "Menguji Undang-undang terhadap UUD",
+      "Memutus sengketa kewenangan lembaga negara",
+      "Memutus pembubaran partai politik",
+      "Memutus perselisihan tentang hasil pemilu",
+      "Memutus pemberhentian atau pembekuan lembaga negara"
     ],
-    "correctAnswer": 3,
-    "explanation": "Indonesia sebagai negara demokrasi adalah penjabaran dari sila keempat Pancasila: Kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam permusyawaratan/perwakilan."
+    "correctAnswer": 4,
+    "explanation": "Tugas Mahkamah Konstitusi tidak termasuk memutus pemberhentian atau pembekuan lembaga negara. Tugas MK meliputi menguji undang-undang terhadap UUD, memutus sengketa kewenangan lembaga negara, memutus pembubaran partai politik, dan memutus perselisihan tentang hasil pemilu. Ini diatur dalam UUD 1945 Pasal 24C."
   },
   {
     "id": 34,
-    "question": "Keterkaitan antara hubungan pokok pikiran pertama pembukaan UUD 1945 terhadap pembangunan nasional adalah...",
+    "question": "Yang menjadi warga negara Indonesia menurut pasal 26 UUD 1945 adalah",
     "options": [
-      "Pembangunan nasional didasarkan pada kekuatan spiritual yang luhur",
-      "Pembangunan nasional harus dilakukan oleh segenap rakyat Indonesia",
-      "Keberhasilan pembangunan harus didasarkan pada keadilan sosial",
-      "Mengedepankan musyawarah mufakat dalam perumusan rencana pembangunan nasional",
-      "Adanya kesadaran bahwa keberhasilan pembangunan nasional dilakukan oleh seluruh warga negara"
+      "Hanya orang bangsa Indonesia asli",
+      "Orang Indonesia asli dan orang bangsa lain yang disahkan dengan Undang-undang sebagai warga negara",
+      "Pribumi saja",
+      "Pribumi dan Inlander",
+      "Orang bangsa Indonesia dan keturunannya saja"
     ],
-    "correctAnswer": 0,
-    "explanation": "Pokok pikiran pertama Pembukaan UUD 1945 (Negara melindungi segenap bangsa Indonesia dan seluruh tumpah darah Indonesia dengan berdasar atas persatuan dengan mewujudkan keadilan sosial bagi seluruh rakyat Indonesia) memiliki keterkaitan bahwa pembangunan nasional didasarkan pada kekuatan spiritual yang luhur."
+    "correctAnswer": 1,
+    "explanation": "Menurut Pasal 26 UUD 1945, yang menjadi warga negara ialah orang-orang bangsa Indonesia asli dan orang-orang bangsa lain yang disahkan dengan undang-undang sebagai warga negara."
   },
   {
     "id": 35,
-    "question": "Kesepakatan dasar dalam perubahan UUD 1945 dengan cara adendum, maksudnya....",
-    "options": [
-      "Naskah baru menggantikan naskah asli sebelumnya",
-      "Naskah asli UUD 1945 digantikan dengan naskah perubahan",
-      "Penggabungan antara naskah asli dengan naskah pembaruan",
-      "Naskah asli UUD 1945 dipertahankan dan naskah pembaruan dilekatkan pada naskah asli",
-      "Naskah asli digabungkan dengan naskah pembaruan UUD 1945 ditambah dengan aturan-aturan peralihan"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Perubahan UUD 1945 dengan cara adendum berarti naskah asli UUD 1945 dipertahankan dan naskah pembaruan (hasil amandemen) dilekatkan pada naskah asli."
+    "question": "Jika pemerintah yang terpilih tidak berusaha membuka lapangan pekerjaan bagi rakyatnya yang membutuhkan penghidupan, maka Pemerintah telah melanggar",
+    "options": ["Pasal 25", "Pasal 27", "Pasal 29", "Pasal 31", "Pasal 35"],
+    "correctAnswer": 1,
+    "explanation": "Pemerintah wajib mengusahakan dan menyelenggarakan sistem jaminan sosial bagi seluruh rakyat dan memberdayakan masyarakat yang lemah dan tidak mampu sesuai dengan martabat kemanusiaan. Hal ini terkait dengan Pasal 27 ayat 2 UUD 1945 yang menyebutkan 'Tiap-tiap warga negara berhak atas pekerjaan dan penghidupan yang layak bagi kemanusiaan.'"
   },
   {
     "id": 36,
-    "question": "Menjalankan pemerintahan yang bersih tanpa adanya kecurangan seperti korupsi merupakan pengamalan sila...",
-    "options": [
-      "Ketuhanan yang maha Esa",
-      "Kemanusiaan yang adil dan beradab",
-      "Persatuan Indonesia",
-      "Kerakyatan yang dipimpin oleh hikmat dalam permusyawaratan/perwakilan",
-      "Keadilan sosial bagi seluruh rakyat Indonesia"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Menjalankan pemerintahan yang bersih dan bebas korupsi adalah pengamalan sila Keadilan sosial bagi seluruh rakyat Indonesia."
+    "question": "Jika seorang hakim menghukum tegas kepada rakyat kecil yang melanggar hukum namun justeru membebaskan seorang pejabat tinggi negara yang melanggar hukum ini berarti hakim tersebut telah melanggar kepastian hukum yang adil, serta tidak memberikan perlakuan sama di depan hukum. Ini bertentangan dengan",
+    "options": ["Pasal 28 D ayat 1", "Pasal 28 D ayat 2", "Pasal 28 D ayat 3", "Pasal 28 D ayat 4", "Pasal 28 D ayat 7"],
+    "correctAnswer": 0,
+    "explanation": "Perlakuan sama di depan hukum dan kepastian hukum yang adil dijamin dalam UUD 1945 Pasal 28D ayat 1: 'Setiap orang berhak atas pengakuan, jaminan, perlindungan, dan kepastian hukum yang adil serta perlakuan yang sama di hadapan hukum.'"
   },
   {
     "id": 37,
-    "question": "Memberi kesempatan rakyat untuk mengajukan saran dan kritik dalam hal pelaksanaan pembangunan yang dilakukan pemerintah merupakan contoh pengamalan sila...",
+    "question": "Berikut adalah macam-macam Hak Asasi Manusia (HAM) yang diakui oleh pasal 28 I ayat 1. Kecuali",
     "options": [
-      "Ketuhanan yang maha Esa",
-      "Kemanusiaan yang adil dan beradab",
-      "Persatuan Indonesia",
-      "Kerakyatan yang dipimpin oleh hikmat dalam permusyawaratan/perwakilan",
-      "Keadilan sosial bagi seluruh rakyat Indonesia"
+      "Hak kemerdekaan pikiran dan hati nurani",
+      "Hak untuk hidup",
+      "Hak untuk tidak disiksa",
+      "Hak mendapatkan pekerjaan tetap",
+      "Hak untuk tidak diperbudak"
     ],
     "correctAnswer": 3,
-    "explanation": "Memberi kesempatan rakyat untuk mengajukan saran dan kritik dalam pembangunan adalah contoh pengamalan sila Kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam permusyawaratan/perwakilan."
+    "explanation": "Hak mendapatkan pekerjaan tetap tidak secara eksplisit disebut dalam Pasal 28I ayat 1 UUD 1945 sebagai hak yang tidak dapat dikurangi dalam keadaan apapun (non-derogable rights). Pasal 28I ayat 1 menyebutkan hak untuk hidup, hak untuk tidak disiksa, hak kemerdekaan pikiran dan hati nurani, hak beragama, hak untuk tidak diperbudak, hak untuk diakui sebagai pribadi di hadapan hukum, dan hak untuk tidak dituntut atas dasar hukum yang berlaku surut."
   },
   {
     "id": 38,
-    "question": "Sebagai ideologi yang digunakan Indonesia, Pancasila dikenal sebagai Ideologi terbuka, maksudnya adalah...",
+    "question": "Berikut adalah macam-macam tugas kepolisian negara Republik Indonesia sesuai dengan pasal 30 ayat 4, kecuali :",
     "options": [
-      "Pancasila menerima pengaruh ideologi lain dan mengubah kepribadian bangsa",
-      "Pancasila harus membuka diri terhadap perkembangan zaman",
-      "Pancasila adalah ideologi yang berasal dari negara lain",
-      "Adanya pancasila karena melihat keadaan negara lain",
-      "Pancasila memberikan keleluasaan negara lain untuk mengikutinya"
+      "Alat negara yang menjaga keamanan",
+      "Menjaga ketertiban",
+      "Melindungi masyarakat",
+      "Mengayomi masyarakat",
+      "Mengamankan perbatasan negara"
     ],
-    "correctAnswer": 1,
-    "explanation": "Pancasila sebagai ideologi terbuka berarti Pancasila harus membuka diri terhadap perkembangan zaman tanpa kehilangan nilai-nilai dasarnya."
+    "correctAnswer": 4,
+    "explanation": "Tugas kepolisian negara Republik Indonesia sesuai Pasal 30 ayat 4 UUD 1945 adalah melindungi, mengayomi, melayani masyarakat, serta menegakkan hukum. Mengamankan perbatasan negara lebih merupakan tugas Tentara Nasional Indonesia (TNI)."
   },
   {
     "id": 39,
-    "question": "Undang-Undang yang mengatur tentang Pertahanan Negara adalah Undang-Undang Nomor...",
+    "question": "Sesuai dengan yang ditetapkan oleh UUD 1945 pasal 31 ayat 2, maka pemerintah wajib membiayai rakyat Indonesia untuk mendapatkan",
     "options": [
-      "7 Tahun 2000",
-      "2 Tahun 2001",
-      "3 Tahun 2002",
-      "3 Tahun 2004",
-      "7 Tahun 2012"
+      "Pendidikan dasar",
+      "Pendidikan menengah",
+      "Pendidikan dasar dan menengah",
+      "Pendidikan luar sekolah",
+      "Pendidikan tinggi"
     ],
     "correctAnswer": 2,
-    "explanation": "Undang-Undang yang mengatur tentang Pertahanan Negara adalah Undang-Undang Nomor 3 Tahun 2002."
+    "explanation": "Sesuai dengan UUD 1945 Pasal 31 ayat 2, 'Setiap warga negara wajib mengikuti pendidikan dasar dan pemerintah wajib membiayainya.'"
   },
   {
     "id": 40,
-    "question": "Pemberian grasi, amnesti, abolisi, dan rehabilitasi oleh presiden diatur secara lengkap dalam Undang-Undang Dasar 1945 Pasal.....",
-    "options": [
-      "11",
-      "12",
-      "13",
-      "14",
-      "15"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Pemberian grasi, amnesti, abolisi, dan rehabilitasi oleh presiden diatur dalam Undang-Undang Dasar 1945 Pasal 14."
+    "question": "Negara menghormati dan memelihara bahasa daerah sebagai kekayaan budaya nasional. Hal ini disebutkan oleh UUD 1945",
+    "options": ["Pasal 32", "Pasal 33", "Pasal 34", "Pasal 35", "Pasal 36"],
+    "correctAnswer": 0,
+    "explanation": "Negara menghormati dan memelihara bahasa daerah sebagai kekayaan budaya nasional diatur dalam UUD 1945 Pasal 32."
   },
   {
     "id": 41,
-    "question": "Prinsip dimana adanya pengakuan bahwa kekuasaan tertinggi ada di tangan rakyat adalah...",
+    "question": "Menurut pasal 34 UUD 1945, fasilitas pelayanan kesehatan dan fasilitas pelayanan umum yang layak harus disediakan oleh",
     "options": [
-      "Kebijaksanaan",
-      "Permusyawaratan",
-      "Perwakilan",
-      "Kerakyatan",
-      "Keadilan"
+      "Pemerintah",
+      "Menteri kesehatan",
+      "Negara",
+      "Departemen kesehatan",
+      "Ikatan dokter indonesia"
     ],
-    "correctAnswer": 3,
-    "explanation": "Pengakuan bahwa kekuasaan tertinggi ada di tangan rakyat adalah prinsip kerakyatan."
+    "correctAnswer": 2,
+    "explanation": "Menurut Pasal 34 UUD 1945, 'Negara bertanggung jawab atas penyediaan fasilitas pelayanan kesehatan dan fasilitas pelayanan umum yang layak.'"
   },
   {
     "id": 42,
-    "question": "Dimensi fleksibilitas merupakan salah satu aspek terkait dengan pancasila sebagai ideologi terbuka, maksudnya adalah…..",
-    "options": [
-      "Mengandung cita-cita yang ingin dicapai",
-      "Yang terkandung di dalamnya harus berdasarkan nilai yang ada di kehidupan masyarakat",
-      "Mencerminkan kemampuan sebuah ideologi untuk menyesuaikan diri dengan perkembangan yang ada di masyarakat",
-      "Mudah dipengaruhi tanpa adanya pemilahan",
-      "Pancasila dapat diubah kapan pun oleh rakyatnya"
-    ],
+    "question": "Perubahan UUD diatur dalam pasal",
+    "options": ["Pasal 35", "Pasal 36", "Pasal 37", "Pasal 38", "Pasal 39"],
     "correctAnswer": 2,
-    "explanation": "Dimensi fleksibilitas pada Pancasila sebagai ideologi terbuka mencerminkan kemampuan sebuah ideologi untuk menyesuaikan diri dengan perkembangan yang ada di masyarakat."
+    "explanation": "Perubahan Undang-Undang Dasar diatur dalam UUD 1945 Pasal 37."
   },
   {
     "id": 43,
-    "question": "Setelah Indonesia merdeka, sekutu datang lagi ke Indonesia bersama dengan orang-orang Belanda yang datang kembali untuk menguasai Hindia Belanda atau disebut...",
+    "question": "Syarat mengubah UUD, sidang MPR harus dihadiri oleh setidaknya",
     "options": [
-      "AFNEI",
-      "SEAC",
-      "PETA",
-      "Tonarigumi",
-      "NICA"
+      "2/3 dari jumlah anggota MPR",
+      "1/3 dari jumlah anggota MPR",
+      "2/5 dari jumlah anggota MPR",
+      "1/4 dari jumlah anggota MPR",
+      "2/4 dari jumlah anggota MPR"
     ],
-    "correctAnswer": 4,
-    "explanation": "Sekutu datang kembali ke Indonesia setelah kemerdekaan bersama dengan orang-orang Belanda yang tergabung dalam NICA (Netherlands Indies Civil Administration)."
+    "correctAnswer": 0,
+    "explanation": "Untuk mengubah UUD, sidang MPR harus dihadiri oleh sekurang-kurangnya 2/3 dari jumlah anggota MPR, ini diatur dalam UUD 1945 Pasal 37 ayat 1."
   },
   {
     "id": 44,
-    "question": "Secara konstitusional negara Indonesia dalam UUD 1945 Pasal 1 ayat 3 menyatakan tentang...",
-    "options": [
-      "Negara Indonesia adalah negara kesatuan berbentuk republik",
-      "Kedaulatan berada di tangan rakyat dan dijalankan berdasarkan UU",
-      "Negara Indonesia adalah negara hukum",
-      "Presiden memiliki kekuasaan eksekutif",
-      "Bentuk susunan negara Indonesia adalah republik"
-    ],
-    "correctAnswer": 2,
-    "explanation": "UUD 1945 Pasal 1 ayat 3 menyatakan bahwa 'Negara Indonesia adalah negara hukum'."
+    "question": "Syarat pengubahan pasal-pasal UUD haruslah disetujui oleh MPR minimal sejumlah",
+    "options": ["51 persen", "50 persen", "Kurang lebih 50 persen", "50 persen plus 1", "51 persen plus 1"],
+    "correctAnswer": 3,
+    "explanation": "Syarat pengubahan pasal-pasal UUD haruslah disetujui oleh MPR minimal sejumlah 50 persen ditambah 1 (satu) dari seluruh anggota. Ini diatur dalam UUD 1945 Pasal 37 ayat 3."
   },
   {
     "id": 45,
-    "question": "Sistem pemerintahan sesuai dengan teori John Locke diterapkan di Indonesia dengan pembagian kekuasaan menjadi...",
-    "options": [
-      "Kekuasaan legislatif, eksekutif, yudikatif",
-      "Kekuasaan legislatif, federatif, dan yudikatif",
-      "Kekuasaan eksekutif, federatif dan legislatif",
-      "Kekuasaan eksaminatif, eksekutif, dan federatif",
-      "Kekuasaan eksaminatif, federatif, dan eksekutif"
-    ],
-    "correctAnswer": 1,
-    "explanation": "John Locke mengemukakan adanya pemisahan kekuasaan menjadi kekuasaan legislatif (membuat undang-undang), eksekutif (melaksanakan undang-undang), dan federatif (hubungan luar negeri). Namun, dalam konteks Indonesia yang mengadopsi teori John Locke, seringkali disederhanakan menjadi legislatif, eksekutif, dan yudikatif."
+    "question": "Bangsa Indonesia bertekad untuk menentang setiap bentuk penjajahan. Hal ini tertuang dalam Pembukaan UUD 1945",
+    "options": ["Alinea 1", "Alinea 2", "Alinea 3", "Alinea 4", "Alinea 5"],
+    "correctAnswer": 0,
+    "explanation": "Tekad bangsa Indonesia untuk menentang penjajahan tertuang dalam Pembukaan UUD 1945 Alinea 1."
   },
   {
     "id": 46,
-    "question": "Sistematika UUD 1945 setelah perubahan adalah...",
+    "question": "Pembukaan UUD 1945 alinea keempat memuat tujuan bangsa Indonesia seperti berikut ini, kecuali :",
     "options": [
-      "Pembukaan, batang tubuh, pasal-pasal",
-      "Pembukaan, GBHN, batang tubuh, dan pasal-pasal",
-      "Pembukaan dan pasal-pasal",
-      "Pembukaan, pasal-pasal aturan peralihan",
-      "Pembukaan, bab-bab, dan ayat-ayat"
+      "Melindungi bangsa dan tanah air",
+      "Memajukan kesejahteraan umum",
+      "Mencerdaskan kehidupan bangsa",
+      "Ikut melaksanakan ketertiban dunia",
+      "Turut melindungi stabilitas kawasan"
     ],
     "correctAnswer": 4,
-    "explanation": "Sistematika UUD 1945 setelah perubahan (amandemen) adalah Pembukaan, Bab-bab, Pasal-pasal, dan Aturan Peralihan serta Aturan Tambahan."
+    "explanation": "Tujuan bangsa Indonesia yang termuat dalam Pembukaan UUD 1945 Alinea keempat adalah melindungi segenap bangsa Indonesia dan seluruh tumpah darah Indonesia, memajukan kesejahteraan umum, mencerdaskan kehidupan bangsa, dan ikut melaksanakan ketertiban dunia yang berdasarkan kemerdekaan, perdamaian abadi dan keadilan sosial. 'Turut melindungi stabilitas kawasan' tidak termasuk."
   },
   {
     "id": 47,
-    "question": "Berikut yang bukan landasan yuridis untuk diadakan perubahan tentang UUD 1945 adalah...",
-    "options": [
-      "Pasal 3 UUD 1945",
-      "Pasal 37 UUD 1945",
-      "Tap MPR No. IX MPR/1999",
-      "Tap MPR No. IX MPR/2000",
-      "Tap MPR No. IX MPR/2001"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Pasal 3 dan 37 UUD 1945 mengatur tentang perubahan UUD. TAP MPR yang mengatur perubahan UUD 1945 adalah TAP MPR No. IX/MPR/2000 tentang Peninjauan Kembali Materi dan Status Hukum Ketetapan Majelis Permusyawaratan Rakyat Sementara dan Ketetapan Majelis Permusyawaratan Rakyat Republik Indonesia Tahun 1960 sampai dengan Tahun 2002. TAP MPR No. IX MPR/1999 dan No. IX MPR/2001 tidak spesifik terkait landasan yuridis perubahan UUD 1945 secara langsung, melainkan lebih pada penetapan GBHN atau peninjauan TAP MPR lainnya."
+    "question": "Aturan peralihan UUD 1945 pasal III amandemen keempat tahun 2002, menyatakan bahwa Mahkamah Konstitusi harus dibentuk selambat-lambatnya tanggal 17 Agustus 2003 dan sebelum itu, tugas Mahkamah Konstitusi sementara diemban oleh",
+    "options": ["Komisi Yudisial", "Hakim Agung", "Jaksa Agung", "Mahkamah Agung", "DPR"],
+    "correctAnswer": 3,
+    "explanation": "Sebelum terbentuknya Mahkamah Konstitusi, tugasnya sementara diemban oleh Mahkamah Agung. Hal ini diatur dalam Aturan Peralihan Pasal III UUD 1945 Amandemen Keempat."
   },
   {
     "id": 48,
-    "question": "Sebelum Indonesia mendapatkan kemerdekaan, banyak dibentuk organisasi maupun badan-badan yang bertugas untuk mempersiapkan Indonesia merdeka. Badan yang bertugas untuk menyelidiki serta menyampaikan pendapat untuk disampaikan kepada pemerintah Jepang sebagai bahan pertimbangan Indonesia merdeka adalah...",
+    "question": "Kedudukan UUD 1945 adalah sebagaimana yang dijelaskan di bawah ini, kecuali :",
     "options": [
-      "PPKI",
-      "Budi Utomo",
-      "Panitia Sembilan",
-      "BPUPKI",
-      "Heiho"
+      "Hukum dasar yang tertulis yang berlaku di Indonesia",
+      "Sumber hukum tertulis tertinggi yang berlaku di Indonesia",
+      "Konstitusi yang berlaku di Indonesia sejak 5 Juli 1959",
+      "Satu-satunya hukum dasar yang berlaku di Indonesia",
+      "Sebagian hukum dasar yang berlaku di Indonesia"
     ],
     "correctAnswer": 3,
-    "explanation": "Badan yang bertugas menyelidiki dan menyampaikan pendapat untuk persiapan kemerdekaan Indonesia adalah BPUPKI (Badan Penyelidik Usaha-usaha Persiapan Kemerdekaan Indonesia)."
+    "explanation": "UUD 1945 bukan satu-satunya hukum dasar yang berlaku di Indonesia, karena masih ada hukum dasar tidak tertulis (konvensi). UUD 1945 adalah hukum dasar tertulis tertinggi, dan konstitusi yang berlaku sejak Dekrit Presiden 5 Juli 1959 (kembali ke UUD 1945)."
   },
   {
     "id": 49,
-    "question": "BPUPKI merupakan badan yang dibentuk oleh pemerintah Jepang pada tanggal 29 April 1945. BPUPKI diketuai oleh...",
+    "question": "Dalam kurun waktu 1945-1949 UUD 1945 belum dapat dilaksanakan dengan baik karena bangsa Indonesia masih sibuk dengan peperangan. Maka tugas legislatif diserahkan kepada KNIP melalui",
     "options": [
-      "Ir. Soekarno",
-      "Raden Pandji Soeroso",
-      "Moh. Yamin",
-      "K.H. Wahid Hasyim",
-      "Dr. Radjiman Wedyoningrat"
+      "Maklumat Wakil Presiden no. I",
+      "Maklumat Wakil Presiden no. II",
+      "Maklumat Wakil Presiden no. III",
+      "Maklumat Wakil Presiden no. IX",
+      "Maklumat Wakil Presiden no. X"
     ],
     "correctAnswer": 4,
-    "explanation": "BPUPKI diketuai oleh Dr. Radjiman Wedyoningrat."
+    "explanation": "Dalam kurun waktu 1945-1949, tugas legislatif diserahkan kepada KNIP melalui Maklumat Wakil Presiden No. X."
   },
   {
     "id": 50,
-    "question": "Setelah Indonesia merdeka, PPKI mengadakan beberapa kali sidang salah satunya memutuskan memilih dan mengangkat presiden dan wakil presiden. Pemilihan presiden dan wakil presiden merupakan hasil sidang PPKI tanggal...",
+    "question": "Manipol USDEK Presiden Soekarno adalah kepanjangan dari",
     "options": [
-      "9 Agustus 1945",
-      "10 Agustus 1945",
-      "18 Agustus 1945",
-      "19 Agustus 1945",
-      "20 Agustus 1945"
+      "UUD 45, Sosialisme Terpimpin, Demokrasi Terpimpin, Ekonomi Terpimpin, Kepribadian Indonesia",
+      "UUD 45, Sosialisme Indonesia, Demokrasi Terpimpin, Ekonomi Terpimpin, Kepribadian Indonesia",
+      "UUD 45, Sosialisme Terpimpin, Demokrasi Terpimpin, Ekonomi Terpimpin, Kebangsaan Indonesia",
+      "UUD 45, Sosialisme, Demokrasi Terpimpin, Ekonomi, Kepribadian Indonesia",
+      "UUD 45, Sosialisme, Demokrasi, Ekonomi, Kepribadian Indonesia"
     ],
-    "correctAnswer": 2,
-    "explanation": "Pemilihan presiden dan wakil presiden (Ir. Soekarno dan Drs. Moh. Hatta) dilakukan pada sidang PPKI tanggal 18 Agustus 1945."
+    "correctAnswer": 0,
+    "explanation": "Manipol USDEK adalah singkatan dari Manifestasi Politik Undang-Undang Dasar 1945, Sosialisme Indonesia, Demokrasi Terpimpin, Ekonomi Terpimpin, dan Kepribadian Indonesia."
   },
   {
     "id": 51,
-    "question": "Pada saat proklamasi kemerdekaan, yang mengibarkan bendera sang saka merah putih adalah...",
+    "question": "Isi UUD 45 telah diamandemen beberapa kali. Namun demikian, Pembukaan UUD 45 tidak boleh diamandemen. Kenapa ?",
     "options": [
-      "Sayuti Melik dan Wikana",
-      "Ahmad Subarjo dan Sayuti Melik",
-      "Latif dan Suhud",
-      "Chaerul Saleh dan Moh Yamin",
-      "Sukarni dan Fatmawati"
+      "Karena tidak sesuai dengan Kesepakatan para pendiri bangsa",
+      "Karena Pembukaan UUD 45 berisi dasar Negara, dan merupakan kelangsungan hidup dan sejarah bangsa",
+      "Karena teramat penting untuk diubah",
+      "Karena belum ada Perpu mengenai hal itu",
+      "Pilihan diatas salah semua, karena pembukaan UUD boleh diubah."
     ],
-    "correctAnswer": 2,
-    "explanation": "Bendera Sang Saka Merah Putih dikibarkan oleh Latif Hendraningrat dan Suhud saat Proklamasi Kemerdekaan."
+    "correctAnswer": 1,
+    "explanation": "Pembukaan UUD 1945 tidak boleh diamandemen karena berisi dasar negara (Pancasila), cita-cita proklamasi, dan merupakan kelangsungan hidup serta sejarah bangsa Indonesia."
   },
   {
     "id": 52,
-    "question": "Perundingan antara Belanda dan Jepang yang mengawali penjajahan Jepang di Indonesia adalah perundingan...",
+    "question": "Apa yang dimaksud dengan pengertian Pancasila secara etimologis ?",
     "options": [
-      "Linggarjati",
-      "Renvile",
-      "Roem Royen",
-      "Bongaya",
-      "Kalijati"
+      "Artinya dasar yang memiliki lima sendi",
+      "Artinya lima pengertian pokok",
+      "Artinya lima yang utama",
+      "Artinya lima tata laku",
+      "Artinya lima keutamaan"
     ],
-    "correctAnswer": 4,
-    "explanation": "Perundingan Kalijati adalah perundingan antara Belanda dan Jepang yang menandai dimulainya pendudukan Jepang di Indonesia."
+    "correctAnswer": 0,
+    "explanation": "Secara etimologis, 'Pancasila' berasal dari bahasa Sanskerta yang berarti 'lima dasar' atau 'lima sendi'."
   },
   {
     "id": 53,
-    "question": "Perhatikan pernyataan berikut. (1) Perubahan dilaksanakan dengan adendum (2) Mempertegas sistem presidensial (3) Tidak mengubah pembukaan UUD 1945 (4) Perubahan terhadap bentuk negara dapat dilakukan (5) Harus sesuai persetujuan DPR sebanyak 1/3 dari jumlah anggota Pernyataan diatas yang termasuk sebagai aturan pokok dalam kaidah perubahan terhadap UUD 1945 adalah...",
-    "options": [
-      "1, 2, dan 4",
-      "1, 2, 3, dan 4",
-      "1, 2, dan 3",
-      "2, 3, dan 4",
-      "3, 4, dan 5"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Aturan pokok dalam kaidah perubahan UUD 1945 meliputi: perubahan dilaksanakan dengan adendum, mempertegas sistem presidensial, dan tidak mengubah Pembukaan UUD 1945. Bentuk negara tidak dapat diubah, dan persetujuan DPR bukan 1/3."
+    "question": "Berasal dari bahasa apakah istilah \"Pancasila\" ?",
+    "options": ["Hierogliph", "Sansekerta", "Prapanca", "Kertajaya", "Negarakertagama"],
+    "correctAnswer": 1,
+    "explanation": "Istilah 'Pancasila' berasal dari bahasa Sanskerta."
   },
   {
     "id": 54,
-    "question": "Dalam sistem demokrasi Pancasila di Indonesia, lembaga negara yang berhak melakukan impeachment adalah...",
-    "options": [
-      "DPR",
-      "DPRD",
-      "Presiden",
-      "MK",
-      "MPR"
-    ],
-    "correctAnswer": 4,
-    "explanation": "Dalam sistem demokrasi Pancasila, proses impeachment (pemberhentian Presiden dan/atau Wakil Presiden) dilakukan oleh MPR setelah menerima usulan dari DPR dan putusan dari Mahkamah Konstitusi."
+    "question": "Istilah \"Pancasila\" ditemukan pada jaman kerajaan Majapahit, yaitu berada dalam kitab",
+    "options": ["Baratayudha", "Prapanca", "Centhini", "Sutasoma", "Negarakertagama"],
+    "correctAnswer": 3,
+    "explanation": "Istilah 'Pancasila' ditemukan dalam Kitab Sutasoma karangan Empu Tantular pada zaman Kerajaan Majapahit."
   },
   {
     "id": 55,
-    "question": "Pengertian terhadap konstitusi dapat diartikan secara luas dan sempit. Pengertian konstitusi Indonesia yang dimaksud adalah...",
+    "question": "Kitab Negarakertagama yang memuat istilah Pancasila ditulis pada tahun 1365 oleh",
     "options": [
-      "Keseluruhan hukum",
-      "UUD 1945",
-      "Peraturan perundang-undangan",
-      "Lembaga MPR",
-      "Pancasila"
+      "Empu Sendok",
+      "Empu Gandring",
+      "Empu Prapanca",
+      "Empu Sakapalwaguna",
+      "Empu Ranggawarsita"
     ],
-    "correctAnswer": 1,
-    "explanation": "Dalam pengertian sempit, konstitusi Indonesia merujuk pada Undang-Undang Dasar 1945."
+    "correctAnswer": 2,
+    "explanation": "Kitab Negarakertagama ditulis pada tahun 1365 oleh Empu Prapanca."
   },
   {
     "id": 56,
-    "question": "Pemberhentian sebuah perkara yang terbukti melanggar aturan hukum dan sudah diproses peradilan dinamakan...",
-    "options": [
-      "Amnesti",
-      "Rehabilitasi",
-      "Abolisi",
-      "Grasi",
-      "Remisi"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Abolisi adalah penghapusan proses hukum seseorang yang sedang berjalan."
+    "question": "Istilah \"Bhinneka Tunggal Ika\" terdapat dalam kitab",
+    "options": ["Sutasoma", "Bratasena", "Bramastya", "Negarakertagama", "Ramayana"],
+    "correctAnswer": 0,
+    "explanation": "Istilah 'Bhinneka Tunggal Ika' terdapat dalam Kitab Sutasoma."
   },
   {
     "id": 57,
-    "question": "Esensi pilar kebangsaan dalam memahami keberagaman sesuai amanan UUD 1945 Pasal 18B ayat 2 adalah...",
-    "options": [
-      "Menghormati keberadaan suku budaya sebagai kesatuan",
-      "Negara mengakui kesatuan hukum adat yang berlaku di seluruh wilayah Indonesia",
-      "Keberadaan masyarakat adat harus diatur dan diperhatikan dalam sistem pemerintahan",
-      "Kebijakan untuk melestarikan budaya menjadi kewajiban seluruh rakyat Indonesia",
-      "Keberadaan adat istiadat di wilayah NKRI harus dilindungi oleh negara"
-    ],
-    "correctAnswer": 1,
-    "explanation": "UUD 1945 Pasal 18B ayat (2) menyatakan bahwa negara mengakui dan menghormati kesatuan-kesatuan masyarakat hukum adat beserta hak-hak tradisionalnya sepanjang masih hidup dan sesuai dengan perkembangan masyarakat dan prinsip Negara Kesatuan Republik Indonesia, yang diatur dalam undang-undang."
+    "question": "Kitab Sutasoma ditulis oleh",
+    "options": ["Empu Tantular", "Empu Charaka", "Empu Prapanca", "Empu Sudarma", "Empu Laksmana"],
+    "correctAnswer": 0,
+    "explanation": "Kitab Sutasoma ditulis oleh Empu Tantular."
   },
   {
     "id": 58,
-    "question": "Manusia sebagai ciptaan Tuhan Yang Maha Esa didudukan sesuai dengan harkat, martabat, dan kodratnya merupakan esensi nilai Pancasila...",
+    "question": "Dalam konstitusi RIS (Republik Indonesia Serikat), yang berlaku tanggal 29 Desember 1949 sampai dengan 17 Agustus 1950 tercantum rumusan Pancasila. Sebutkan isi rumusan Pancasila dalam konstitusi RIS tersebut",
     "options": [
-      "Religius",
-      "Humanitas",
-      "Sosialitas",
-      "Nasionalisme",
-      "Sovereinitas"
+      "Ketuhanan, Kemanusiaan, Kebangsaan, Kerakyatan, Keadilan Sosial",
+      "Ketuhanan, Peri Kemanusiaan, Kebangsaan, Kerakyatan, Keadilan Sosial",
+      "Ketuhanan, Kemanusiaan, Persatuan Indonesia, Kerakyatan, Keadilan Sosial",
+      "Ketuhanan, Kemanusiaan, Kebangsaan, Kerakyatan, Keadilan",
+      "Ketuhanan Yang Maha Esa, Peri Kemanusiaan, Kebangsaan, Kerakyatan, Keadilan Sosial"
     ],
-    "correctAnswer": 1,
-    "explanation": "Memperlakukan manusia sesuai harkat dan martabatnya merupakan esensi nilai humanitas (kemanusiaan) dalam Pancasila."
+    "correctAnswer": 0,
+    "explanation": "Rumusan Pancasila dalam Konstitusi RIS (29 Desember 1949 - 17 Agustus 1950) adalah: Ketuhanan, Kemanusiaan, Kebangsaan, Kerakyatan, Keadilan Sosial."
   },
   {
     "id": 59,
-    "question": "Saat Jepang menduduki Indonesia ada beberapa kebijakan yang diterapkan, salah satunya di bidang politik, yaitu membentuk Putera. Gerakan ini dipimpin oleh empat serangkai, yaitu...",
+    "question": "Rumusan Pancasila yang terdapat dalam konstitusi RIS juga tercantum sama persis dalam",
     "options": [
-      "Ir. Soekarno, Drs. Moh. Hata, Ki Hajar Dewantara, dan K.H Mas Mansyur",
-      "Ir. Soekarno, Drs. Moh Hatta, Dr. Radjiman Wedyoningrat, Soetomo",
-      "Suwardi Suryaningrat, Douwes Dekker, Dr. Cipto Mangunkusumo, K.H. Mas Mansyur",
-      "Ir. Soekarno, Drs. Moh Hatta, Dr. Cipto Mangunkusumo, Dr, Radjiman Widyoningrat",
-      "Dr. Radjiman Wedyoningrat, Soetomo, Dr. Cipto Mangunkusumo, Douwes Dekker"
+      "UUDS 1950. Berlaku tanggal 17 Agustus 1950 – 5 Juli 1959",
+      "UUD 1950. Berlaku tanggal 17 Agustus 1950 – 5 Juli 1959",
+      "UUD 1945. Berlaku tanggal 17 Agustus 1950 – 5 Juli 1959",
+      "UUDS 1950. Berlaku tanggal 18 Agustus 1950 – 5 Juli 1959",
+      "UUDS 1950. Berlaku tanggal 20 Agustus 1950 – 5 Juli 1959"
     ],
     "correctAnswer": 0,
-    "explanation": "Empat Serangkai pemimpin Putera (Pusat Tenaga Rakyat) adalah Ir. Soekarno, Drs. Moh. Hatta, Ki Hajar Dewantara, dan K.H. Mas Mansyur."
+    "explanation": "Rumusan Pancasila dalam Konstitusi RIS sama persis dengan yang tercantum dalam UUDS 1950 (Undang-Undang Dasar Sementara 1950), yang berlaku dari 17 Agustus 1950 hingga 5 Juli 1959."
   },
   {
     "id": 60,
-    "question": "Perang dunia II juga membawa pengaruh terhadap Indonesia, khususnya untuk mencapai kemerdekaan. Pengaruh yang didapatkan Indonesia adalah...",
+    "question": "Rumusan Pancasila yang sah dan benar (baik pengucapan maupun penulisan) terdapat dalam",
     "options": [
-      "Munculnya fasisme Jepang di negaranya",
-      "Jepang kalah dari sekutu sehingga memberikan janji kemerdekaan kepada Indonesia",
-      "Penyerangan sekutu ke Indonesia",
-      "Penyerangan indonesia ke sekutu",
-      "Belanda mengajak Indonesia bergabung pada saat perang dunia II"
+      "Pembukaan UUD 1945",
+      "Inpres No.12 tanggal 13 April 1968",
+      "TAP MRPS no. XX/MPRS/1966",
+      "Kesepakatan seluruh bangsa Indonesia dalam Sumpah Pemuda 28 Oktober 1928",
+      "UUDS 1950"
     ],
-    "correctAnswer": 1,
-    "explanation": "Kekalahan Jepang terhadap Sekutu dalam Perang Dunia II menjadi salah satu faktor pendorong utama kemerdekaan Indonesia karena Jepang memberikan janji kemerdekaan."
+    "correctAnswer": 0,
+    "explanation": "Rumusan Pancasila yang sah dan benar (baik pengucapan maupun penulisan) terdapat dalam Pembukaan UUD 1945."
   },
   {
     "id": 61,
-    "question": "Pada saat perang Dunia II terjadi, negara-negara yang terlibat dibagi menjadi dua blok. Yang termasuk blok sekutu adalah...",
+    "question": "Berikut ini yang tidak termasuk dalam isi Dekrit Presiden 5 Juli 1959 adalah",
     "options": [
-      "Jerman dan Finlandia",
-      "Austria dan Rumania",
-      "Prancis dan RRC",
-      "Italia dan Polandia",
-      "Jepang dan Jerman"
+      "Membubarkan konstituante",
+      "Menetapkan berlakunya kembali UUD 1945",
+      "Tidak berlakunya lagi UUDS 1950",
+      "Dibentuknya MPRS dan DPAS dalam waktu sesingkat- singkatnya",
+      "Pembentukan Dewan Penasihat Presiden"
     ],
-    "correctAnswer": 2,
-    "explanation": "Blok Sekutu pada Perang Dunia II antara lain terdiri dari Amerika Serikat, Inggris, Uni Soviet, dan Prancis."
+    "correctAnswer": 4,
+    "explanation": "Pembentukan Dewan Penasihat Presiden tidak termasuk dalam isi Dekrit Presiden 5 Juli 1959. Isi dekrit tersebut adalah: pembubaran Konstituante, diberlakukannya kembali UUD 1945 dan tidak berlakunya UUDS 1950, serta pembentukan MPRS dan DPAS dalam waktu sesingkat-singkatnya."
   },
   {
     "id": 62,
-    "question": "Saat melawan sekutu, Jepang lama kelamaan mengalami kekalahan hingga akhirnya menyatakan menyerah kepada sekutu pada tanggal...",
+    "question": "Mengapa Pancasila disebut suatu kesatuan yang majemuk tunggal. Apa maksudnya ?",
     "options": [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "11 Agustus 1945",
-      "14 Agustus 1945",
-      "16 Agustus 1945"
+      "Artinya seluruh lima sila yang ada adalah satu kesatuan yang utuh",
+      "Pancasila itu satu tapi banyak",
+      "Pancasila itu banyak",
+      "Pancasila itu tetap tunggal dan Satu",
+      "Pancasila itu kaya akan arti"
     ],
-    "correctAnswer": 3,
-    "explanation": "Jepang menyerah tanpa syarat kepada Sekutu pada tanggal 14 Agustus 1945 setelah pengeboman Hiroshima dan Nagasaki."
+    "correctAnswer": 0,
+    "explanation": "Pancasila disebut kesatuan yang majemuk tunggal karena seluruh lima sila yang ada adalah satu kesatuan yang utuh, tidak dapat dipisahkan satu sama lain."
   },
   {
     "id": 63,
-    "question": "Pola pikir dan cara pandang bangsa Indonesia terhadap jati diri dan lingkungannya yang didasarkan pada Pancasila dan UUD 1945 merupakan bentuk pengukuhan dan apresiasi terhadap negara yang berdaulat demi sikap nasionalisme yang mengalir dalam setiap perilaku dalam bernegara dan berbangsa. Kemampuan ini dikenal sebagai...",
+    "question": "Apa konsekuensi dari Pancasila sebagai kesatuan majemuk tunggal ?",
     "options": [
-      "Nasional",
-      "Wawasan",
-      "Wawasan nasional",
-      "Wawasan nusantara",
-      "Ketahanan nasional"
+      "Semua sila tak dapat berdiri sendiri tapi dapat berselisih",
+      "Semua sila dapat berdiri sendiri tapi tak dapat berselisih",
+      "Semua sila tak dapat berdiri sendiri dan tak dapat berselisih",
+      "Setiap sila haruslah mampu mandiri dan berdiri sendiri",
+      "Setiap sila harus berdiri sendiri maupun bersama-sama"
     ],
-    "correctAnswer": 3,
-    "explanation": "Pola pikir dan cara pandang bangsa Indonesia terhadap jati diri dan lingkungannya yang didasarkan pada Pancasila dan UUD 1945 dikenal sebagai Wawasan Nusantara."
+    "correctAnswer": 2,
+    "explanation": "Konsekuensi dari Pancasila sebagai kesatuan majemuk tunggal adalah semua sila tidak dapat berdiri sendiri dan tidak dapat berselisih, melainkan saling terkait dan membentuk satu kesatuan yang utuh."
   },
   {
     "id": 64,
-    "question": "Memupuk rasa nasionalisme kebangsaan bagi masyarakat Indonesia berdasarkan keberagaman suku, agama, ras, dan antargolongan agar...",
+    "question": "Pernyataan yang benar mengenai rumusan Pancasila sebagai hierarki Piramidal adalah",
     "options": [
-      "Bangsa Indonesia mandiri",
-      "Moralitas bangsa terjaga",
-      "Tercipta kedaulatan bangsa",
-      "Identitas nasional terjaga",
-      "Tidak kehilangan kepribadian bangsa"
+      "Sila V meliputi sila IV, III, II dan I",
+      "Sila IV meliputi sila V dan I",
+      "Sila II meliputi sila I dan III",
+      "Sila I meliputi sila II, III, IV, dan V",
+      "Sila IV meliputi sila III"
     ],
-    "correctAnswer": 4,
-    "explanation": "Memupuk rasa nasionalisme berdasarkan keberagaman bertujuan agar bangsa Indonesia tidak kehilangan kepribadian bangsanya."
+    "correctAnswer": 3,
+    "explanation": "Dalam hierarki piramidal Pancasila, Sila I (Ketuhanan Yang Maha Esa) mendasari, menjiwai, dan meliputi sila-sila berikutnya, yaitu sila II, III, IV, dan V. Dan seterusnya, sila-sila di bawahnya dijiwai oleh sila di atasnya."
   },
   {
     "id": 65,
-    "question": "Nasionalisme yang lahir di Indonesia bukanlah nasionalisme Barat, melainkan nasionalisme of humanity yang dikemukakan oleh Ir. Soekarno yang berarti bahwa...",
+    "question": "Masing-masing sila Pancasila bersifat saling mengisi dan mengkualifikasi, apa artinya ?",
     "options": [
-      "Kemanusiaan adalah satu",
-      "Kemanusiaan merupakan perbedaan yang harus dipertahankan",
-      "Karakter bangsa lahir dari kemanusiaan",
-      "Jiwa dan jati diri bangsa dipersatukan",
-      "Kemanusiaan adalah sebuah karakter"
+      "Dalam setiap sila terkandung empat sila lainnya",
+      "Dalam setiap sila ada sila lain yang mengkoreksi",
+      "Setiap sila harus selalu diseimbangkan dengan sila lain",
+      "Sila satu terhadap sila lainnya haruslah bersatu",
+      "Sila satu harus mampu meningkatkan nilai tambah sila lainnya"
     ],
     "correctAnswer": 0,
-    "explanation": "Nasionalisme of humanity yang dikemukakan Ir. Soekarno berarti bahwa kemanusiaan adalah satu, menekankan persaudaraan antarmanusia tanpa memandang ras atau bangsa."
+    "explanation": "Sifat saling mengisi dan mengkualifikasi dalam Pancasila berarti dalam setiap sila terkandung empat sila lainnya."
   },
   {
     "id": 66,
-    "question": "Berikut ini yang termasuk dalam faktor pendorong nasionalisme dari luar Indonesia pada awal pergerakan nasional, kecuali...",
+    "question": "Apa yang dimaksud dengan Pancasila sebagai satu kesatuan formal logis ?",
     "options": [
-      "Kemenangan Jepang atas Rusia",
-      "Kebangkitan nasionalisme Asia-Afrika",
-      "Adanya kelompok masyarakat berpendidikan tinggi",
-      "Timbulnya paham baru nasionalisme",
-      "Lahirnya ideologi baru"
+      "Kesatuan sila-sila Pancasila bersifat hierarkis piramidal yang menggambarkan hubungan luas",
+      "Pancasila memiliki sila-sila yang masuk akal isinya",
+      "Pancasila memiliki sila-sila yang tidak bertentangan",
+      "Pancasila bersifat formal resmi",
+      "Pancasila membentuk kesatuan yang masuk akal"
     ],
-    "correctAnswer": 2,
-    "explanation": "Adanya kelompok masyarakat berpendidikan tinggi merupakan faktor internal pendorong nasionalisme di Indonesia, bukan dari luar."
+    "correctAnswer": 0,
+    "explanation": "Pancasila sebagai satu kesatuan formal logis berarti kesatuan sila-sila Pancasila bersifat hierarkis piramidal yang menggambarkan hubungan luas dan konsisten secara logis."
   },
   {
     "id": 67,
-    "question": "Semangat nasionalisme baru dalam usaha pergerakan kemerdekaan diawali dengan munculnya organisasi...",
+    "question": "Apa yang menjadi dasar ontologis atau dasar antropologis dari Pancasila ?",
     "options": [
-      "Serikat dagang Islam",
-      "Budi Utomo",
-      "Indische Partij",
-      "Perhimpunan Indonesia",
-      "PNI"
+      "Yaitu manusia yang bersifat makhluk sosial",
+      "Yaitu manusia yang bersifat makhluk egois",
+      "Yaitu manusia yang bersifat makhluk monopluralis",
+      "Yaitu manusia yang bersifat makhluk mandiri",
+      "Yaitu manusia yang bersifat makhluk komunal"
     ],
-    "correctAnswer": 1,
-    "explanation": "Semangat nasionalisme baru dalam usaha pergerakan kemerdekaan diawali dengan munculnya Budi Utomo pada tahun 1908."
+    "correctAnswer": 2,
+    "explanation": "Dasar ontologis atau dasar antropologis dari Pancasila adalah manusia yang bersifat monopluralis, yaitu makhluk individu dan sekaligus makhluk sosial."
   },
   {
     "id": 68,
-    "question": "Pengertian nasionalisme dalam arti sempit adalah...",
+    "question": "Sebagai suatu ideologi, Pancasila memiliki tiga unsur pokok. Yaitu",
     "options": [
-      "Rasa cinta terhadap negeri",
-      "Perilaku yang tidak menghargai sesama",
-      "Perasaan keberagaman yang sama",
-      "Perasaan kebangsaan yang sangat tinggi",
-      "Perilaku menjaga harga diri bangsa"
+      "Logos, Etika, Knowing",
+      "Panthos, Ethos, Logos",
+      "Ethic, Logika, Pengetahuan",
+      "Moral, Pengetahuan, Interaksi sosial",
+      "Moral, Logika, Emosi"
     ],
-    "correctAnswer": 3,
-    "explanation": "Nasionalisme dalam arti sempit (chauvinisme) adalah perasaan kebangsaan yang sangat tinggi dan menganggap bangsa sendiri lebih unggul dari bangsa lain."
+    "correctAnswer": 1,
+    "explanation": "Sebagai suatu ideologi, Pancasila memiliki tiga unsur pokok, yaitu Panthos (penghayatan), Ethos (etika/moral), dan Logos (rasionalitas/wawasan)."
   },
   {
     "id": 69,
-    "question": "Berikut yang bukan termasuk dalam aspek pembentuk rasa nasionalisme adalah...",
-    "options": [
-      "Persatuan nasib",
-      "Kesatuan tempat tinggal",
-      "Cita-cita bersama",
-      "Perbedaan yang mempersatukan",
-      "Tujuan bersama"
-    ],
+    "question": "Apakah makna dari \"Panthos\" ?",
+    "options": ["Kesusilaan", "Kepantasan", "Etika", "Penghayatan", "Keberanian"],
     "correctAnswer": 3,
-    "explanation": "Aspek pembentuk rasa nasionalisme umumnya meliputi persatuan nasib, kesatuan tempat tinggal, cita-cita bersama, dan tujuan bersama. 'Perbedaan yang mempersatukan' lebih ke semboyan Bhinneka Tunggal Ika."
+    "explanation": "Makna dari 'Panthos' adalah **penghayatan**."
   },
   {
     "id": 70,
-    "question": "Kasus yang menimpa seseorang ketika memiliki status kewarganegaraan ganda (bipatride) terjadi ketika...",
-    "options": [
-      "Berasal dari negara yang menganut ius soli dan melahirkan di negara yang menganut ius sanguinis",
-      "Berasal dari negara yang menganut ius sanguinis dan melahirkan di negara yang menganut ius soli",
-      "Lahir di negara yang menganut ius soli dan bertempat tinggal dan melahirkan di negara yang menganut ius soli",
-      "Memiliki status tidak memiliki kewarganegaraan dan melahirkan serta bertempat tinggal di negara yang menganut ius soli",
-      "Memiliki status tidak memiliki kewarganegaraan tinggal di negara yang menganut ius soli"
-    ],
-    "correctAnswer": 1,
-    "explanation": "Status bipatride (kewarganegaraan ganda) dapat terjadi jika seseorang berasal dari negara yang menganut asas ius sanguinis (kewarganegaraan berdasarkan keturunan) dan lahir di negara yang menganut asas ius soli (kewarganegaraan berdasarkan tempat lahir)."
+    "question": "Apakah makna dari \"Ethos\" ?",
+    "options": ["Kesusilaan", "Kepantasan", "Norma", "Penghayatan", "Kebersahajaan"],
+    "correctAnswer": 0,
+    "explanation": "Makna dari 'Ethos' adalah **kesusilaan** atau etika/moral."
   },
   {
     "id": 71,
-    "question": "Nasionalisme berasal dari bahasa latin yaitu nation yang berarti dilahirkan atau sering disebut sebuah bangsa yang dipersatukan akibat kelahiran. Nasionalisme dalam ruang dan waktu dapat memiliki perubahan hakikat karena...",
-    "options": [
-      "Dipengaruhi oleh sejarah bangsa",
-      "Disesuaikan dengan penafsiran ideologi",
-      "Disesuaikan dengan hukum nasional yang berlaku",
-      "Adanya gejala sosio politik yang berkembang",
-      "Mengacu pada gagasan, ide, dan identitas suatu Negara"
-    ],
-    "correctAnswer": 3,
-    "explanation": "Nasionalisme dapat memiliki perubahan hakikat karena adanya gejala sosio-politik yang berkembang dalam masyarakat."
+    "question": "Apakah makna dari \"Logos\" ?",
+    "options": ["Wawasan", "Rasionalitas", "Keberanian", "Filsafat", "Ideologi"],
+    "correctAnswer": 1,
+    "explanation": "Makna dari 'Logos' adalah **rasionalitas** atau wawasan/pengetahuan."
   },
   {
     "id": 72,
-    "question": "Wujud hubungan baik Indonesia dengan negara tetangga, yaitu dengan mendirikan ASEAN. ASEAN merupakan salah satu perwujudan kerjasama diantara negara-negara di kawasan Asia Tenggara yang dibentuk pada tanggal....",
+    "question": "Bangsa Indonesia adalah causa materialis Pancasila. Apa makna dari istilah tersebut ?",
     "options": [
-      "8 Agustus 1967",
-      "10 September 1967",
-      "5 Agustus 1956",
-      "22 Oktober 1957",
-      "7 Januari 1984"
+      "Sumber pengetahuan Pancasila adalah nilai-nilai dari bangsa lain",
+      "Sumber pengetahuan Pancasila adalah nilai-nilai dari bangsa Indonesia sendiri",
+      "Sumber pengetahuan Pancasila adalah dari nilai-nilai bangsa lain dan bangsa Indonesia sendiri",
+      "Sumber pengetahuan Pancasila adalah nilai-nilai dari seluruh bangsa yang ada di dunia",
+      "Sumber pengetahuan Pancasila adalah nilai-nilai dari beberapa bangsa yang memilki akar sejarah yang sama dengan bangsa Indonesia"
     ],
-    "correctAnswer": 0,
-    "explanation": "ASEAN dibentuk pada tanggal 8 Agustus 1967 di Bangkok, Thailand."
+    "correctAnswer": 1,
+    "explanation": "Causa materialis Pancasila berarti sumber pengetahuan Pancasila adalah nilai-nilai yang sudah ada dan hidup dalam bangsa Indonesia sendiri."
   },
   {
     "id": 73,
-    "question": "Pada saat ASEAN dibentuk, masing-masing negara diwakili oleh menteri luar negerinya. Indonesia diwakili oleh.....",
+    "question": "Susunan isi arti Pancasila meliputi tiga hal. Umum universal, Umum kolektif dan Khusus konkret. Apa maksud dari isi Pancasila bersifat umum universal ?",
     "options": [
-      "Tun Abdul Razak",
-      "Thanat Khoman",
-      "Sir Rajaratnam",
-      "Narsisco Ramos",
-      "Adam Malik"
+      "Dilaksanakan dalam berbagai bidang, baik bidang kenegaraan, bidang hukum maupun bidang-bidang kehidupan yang nyata",
+      "Dilaksanakan seluruh negara di dunia",
+      "Harus disebarkan ke seluruh penjuru dunia",
+      "Merupakan gabungan nilai-nilai luhur seluruh bangsa di dunia",
+      "Merupakan milik bersama"
     ],
-    "correctAnswer": 4,
-    "explanation": "Indonesia diwakili oleh Adam Malik saat pembentukan ASEAN."
+    "correctAnswer": 0,
+    "explanation": "Pancasila bersifat umum universal artinya nilai-nilai Pancasila dapat dilaksanakan dalam berbagai bidang kehidupan, baik kenegaraan, hukum, maupun kehidupan nyata."
   },
   {
     "id": 74,
-    "question": "Salah satu bentuk kerja sama negara ASEAN adalah mendirikan proyek industri bersama, Proyek industri yang berada di Indonesia adalah.....",
+    "question": "Apa maksud dari isi Pancasila bersifat khusus konkret ?",
     "options": [
-      "Pabrik mesin diesel",
-      "Pabrik abu soda",
-      "Pabrik urea",
-      "Pabrik urea dan amoniak",
-      "Pabrik super fosfat"
+      "Isi arti Pancasila dalam realisasi praktis di berbagai bidang kehidupan bersifat khusus, konkret dan dinamis",
+      "Akar pengetahuan Pancasila adalah khusus dan nyata",
+      "Hanya khusus diberlakukan di Indonesia saja",
+      "Merupakan gabungan nilai-nilai luhur beberapa bangsa pilihan di dunia",
+      "Merupakan keunikan yang nyata"
     ],
-    "correctAnswer": 3,
-    "explanation": "Proyek industri bersama ASEAN yang berada di Indonesia adalah Pabrik Pupuk Urea ASEAN di Aceh (PT ASEAN Aceh Fertilizer, sekarang PT Pupuk Iskandar Muda)."
+    "correctAnswer": 0,
+    "explanation": "Pancasila bersifat khusus konkret artinya isi arti Pancasila dalam realisasi praktis di berbagai bidang kehidupan bersifat khusus, konkret, dan dinamis."
   },
   {
     "id": 75,
-    "question": "Penyelenggara pemerintahan di dalam negara harus seimbang antara hak dan kewajiban. Hal ini merupakan salah satu asas pemerintahan yang baik, yaitu...",
+    "question": "Menurut Notonagoro, tingkatan nilai ada tiga macam. Nilai material, nilai vital dan nilai rohani. Apa maksud dari nilai material ?",
     "options": [
-      "kepentingan umum",
-      "akunntabilitas",
-      "keterbukaan",
-      "proporsional",
-      "profesional"
+      "Yaitu segala sesuatu yang berguna bagi jasmani",
+      "Yaitu kekayaan materi",
+      "Yaitu kekayaan harta sebagai modal berbuat baik",
+      "Uang",
+      "Harga sesuatu dibandingkan dengan sesuatu yang lain"
     ],
-    "correctAnswer": 3,
-    "explanation": "Asas proporsionalitas dalam pemerintahan yang baik menekankan keseimbangan antara hak dan kewajiban."
+    "correctAnswer": 0,
+    "explanation": "Menurut Notonagoro, nilai material adalah segala sesuatu yang berguna bagi jasmani manusia."
   },
   {
     "id": 76,
-    "question": "Negara kita adalah negara yang dapat mengakui dan menghormati akan adanya perbedaan. Salah satu bentuknya adalah penghormatan terhadap adanya perbedaan agama. Hal ini dijelaskan pada...",
+    "question": "Sila-sila Pancasila itu bersifat hierarkis piramidal, Apa maksudnya ?",
     "options": [
-      "Pasal 31 ayat 3 UUD 1945",
-      "Pasal 30 ayat 1 UUD 1945",
-      "Pasal 29 ayat 2 UUD 1945",
-      "Pasal 28 UUD 1945",
-      "Pasal 26 ayat 1 UUD 1945"
+      "Sila-sila Pancasila itu saling mendukung",
+      "Sila-sila Pancasila itu tidak boleh saling bergesekan satu sama lainnya",
+      "Sila-sila Pancasila itu berjenjang (bertingkat). Sila pertama mendasari sila berikutnya, dan seterusnya",
+      "Sila-sila Pancasila itu semakin mengerucut pada akhirnya",
+      "Sila-sila Pancasila itu saling memfokuskan diri"
     ],
     "correctAnswer": 2,
-    "explanation": "Penghormatan terhadap adanya perbedaan agama dijelaskan pada UUD 1945 Pasal 29 ayat (2) yang menyatakan 'Negara menjamin kemerdekaan tiap-tiap penduduk untuk memeluk agamanya masing-masing dan untuk beribadat menurut agamanya dan kepercayaannya itu'."
+    "explanation": "Sila-sila Pancasila bersifat hierarkis piramidal, yang berarti sila-sila tersebut berjenjang atau bertingkat, di mana sila pertama mendasari sila berikutnya, dan seterusnya."
   },
   {
     "id": 77,
-    "question": "Sebuah kitab bernapa Sutasoma yang merupakan karangan dari..",
-    "options": [
-      "Mpu Tantular",
-      "Mpu Prapanca",
-      "Mpu Gandring",
-      "Mpu Sendok",
-      "Mpu Supo"
-    ],
+    "question": "Salah satu identitas bangsa Indonesia sesuai dengan Pancasila adalah",
+    "options": ["Musyawarah", "Pemilihan umum", "Menghapus segala bentuk penjajahan", "Hidup berdampingan", "Hidup sejahtera"],
     "correctAnswer": 0,
-    "explanation": "Kitab Sutasoma adalah karangan Mpu Tantular."
+    "explanation": "Salah satu identitas bangsa Indonesia sesuai dengan Pancasila, khususnya sila keempat, adalah **musyawarah** untuk mencapai mufakat."
   },
   {
     "id": 78,
-    "question": "Penyelenggara pemerintahan Indonesia dibagi menjadi daerah provinsi, daerah kabupaten dan kota mencerminkan Indonesia menerapkan prinsip....",
+    "question": "Nasionalisme Indonesia terdiri dari kesatuan hal-hal berikut ini, kecuali",
     "options": [
-      "sentralisasi",
-      "desentralisasi",
-      "dekonsentrasi",
-      "asas perbantuan",
-      "asas pemusatan"
+      "Kesatuan sejarah",
+      "Kesatuan nasib",
+      "Kesatuan wilayah",
+      "Kesatuan kebudayaan",
+      "Kesatuan peradaban"
     ],
-    "correctAnswer": 1,
-    "explanation": "Pembagian penyelenggara pemerintahan menjadi provinsi, kabupaten, dan kota mencerminkan prinsip desentralisasi, yaitu penyerahan wewenang pemerintahan oleh pemerintah pusat kepada daerah otonom untuk mengatur dan mengurus urusan pemerintahan dalam sistem Negara Kesatuan Republik Indonesia."
+    "correctAnswer": 4,
+    "explanation": "Nasionalisme Indonesia meliputi kesatuan sejarah, kesatuan nasib, kesatuan wilayah, dan kesatuan kebudayaan. Kesatuan peradaban bukanlah komponen utama yang secara spesifik disebutkan dalam konteks ini."
   },
   {
     "id": 79,
-    "question": "Negara Indonesia sebagai negara yang warga negaranya bersatu erat serta kepentingan individu diakui secara seimbang. Hal ini karena Indonesia merupakan negara.....",
+    "question": "Apa yang dimaksud dengan kesatuan sejarah",
     "options": [
-      "Kemakmuran",
-      "Persamaan",
-      "Otonomi",
-      "Kesukuan",
-      "Persatuan"
+      "Bangsa Indonesia tumbuh dan berkembang dari suatu proses sejarah. Dimulai dari jaman prasejarah, kerajaan lalu Proklamasi 17 Agustus 1945",
+      "Bangsa Indonesia memiliki sejarah yang satu. Satu kerajaan dan satu republik",
+      "Bangsa Indonesia tidak boleh melupakan sejarah seperti kacang lupa kulitnya",
+      "Bangsa Indonesia adalah bangsa besar dengan sejarah beragam",
+      "Bangsa Indonesia memiliki kesaan pandangan terhadap sejarah"
     ],
-    "correctAnswer": 4,
-    "explanation": "Negara Indonesia adalah negara persatuan, yang menekankan keutuhan dan kesatuan warga negaranya, namun tetap mengakui kepentingan individu secara seimbang."
+    "correctAnswer": 0,
+    "explanation": "Kesatuan sejarah berarti bangsa Indonesia tumbuh dan berkembang dari suatu proses sejarah yang sama, dimulai dari zaman prasejarah, kerajaan, hingga Proklamasi 17 Agustus 1945."
   },
   {
     "id": 80,
-    "question": "Hadirnya kehidupan masyarakat saat ini dipelopori oleh sejarah pergerakan nasional Indonesia yang dilakukan oleh...",
+    "question": "Apa yang dimaksud dengan kesatuan nasib ?",
     "options": [
-      "Para kiai",
-      "Kaum terpelajar",
-      "Masyarakat pribumi",
-      "Pedagang",
-      "Kaum ulama dan tumenggung"
+      "Bangsa Indonesia pernah mengalami nasib serupa, yakni mengalami jaman kediktatoran kerajaan",
+      "Bangsa Indonesia pernah mengalami nasib sama, yakni era penjajahan.",
+      "Bangsa Indonesia mengalami nasib sama, yakni sebagai Negara berkembang yang masih miskin",
+      "Bangsa Indonesia bernasib Satu",
+      "Nasib bangsa Indonesia haruslah sama, yaitu sama- sama sejahtera"
     ],
     "correctAnswer": 1,
-    "explanation": "Pergerakan nasional Indonesia modern dipelopori oleh kaum terpelajar yang menyadari pentingnya organisasi dan pendidikan."
+    "explanation": "Kesatuan nasib berarti bangsa Indonesia pernah mengalami nasib yang sama, terutama pada era penjajahan, yang kemudian mendorong persatuan untuk meraih kemerdekaan."
   },
   {
     "id": 81,
-    "question": "Lagu kebangsaan Indonesia Raya yang dikenalkan oleh Wage Soepratman pertama kali diperdengarkan untuk membangkitkan rasa nasionalisme pada saat...",
+    "question": "Apa yang dimaksud dengan kesatuan kebudayaan ?",
     "options": [
-      "Rapat organisasi Budi Utomo",
-      "Proklamasi kemerdekaan",
-      "Sumpah pemuda",
-      "Sidang BPUPKI",
-      "Peristiwa Rengasdengklok"
+      "Kesatuan budaya yang tak mungkin dipecah-pecah lagi",
+      "Budaya Indonesia meskipun beragam, namun tetap satu, yaitu budaya nasional Indonesia",
+      "Budaya daerah adalah Satu",
+      "Budaya daerah dan budaya nasional adalah Satu",
+      "Bersatu dalam mengembangkan kebudayaan"
     ],
-    "correctAnswer": 2,
-    "explanation": "Lagu Indonesia Raya pertama kali diperdengarkan pada Kongres Pemuda II tanggal 28 Oktober 1928, yang kemudian dikenal sebagai peristiwa Sumpah Pemuda."
+    "correctAnswer": 1,
+    "explanation": "Kesatuan kebudayaan berarti meskipun budaya Indonesia beragam, namun tetap satu, yaitu budaya nasional Indonesia yang merupakan puncak-puncak kebudayaan daerah."
   },
   {
     "id": 82,
-    "question": "Secara astronomi ASEAN terletak pada 28°LU-11°LS dan 92°BT-141°BT, sedangkan secara geografis terletak antara Samudera Pasifik dan Samudera Hindia serta Benua Asia dan Benua Australia. Indonesia sebagai salah satu anggota ASEAN secara astronomi terletak pada...",
+    "question": "Berdasarkan sila pertama Pancasila, Indonesia adalah Negara berketuhanan. Artinya Indonesia bukan merupakan negara yang sekuler. Apa artinya ?",
     "options": [
-      "11°LU-6°LS dan 95°BT-114°BT",
-      "6°LU-11°LS dan 95°BT-141°BB",
-      "6°LU-11°LS dan 95°BB-141°BT",
-      "6°LU-11°LS dan 95°BT-141°BT",
-      "11°LU-11°LS dan 95°BB-114°BT"
+      "Indonesia tidak memisahkan urusan agama dengan urusan Negara.",
+      "Indonesia tidak mempedulikan urusan agama.",
+      "Urusan agama bukanlah urusan Negara",
+      "Urusan Negara dan agama harus dipisahkan",
+      "Urusan agama adalah urusan pribadi"
     ],
-    "correctAnswer": 3,
-    "explanation": "Secara astronomi, Indonesia terletak antara 6°LU-11°LS dan 95°BT-141°BT."
+    "correctAnswer": 0,
+    "explanation": "Indonesia sebagai negara berketuhanan berarti Indonesia tidak memisahkan urusan agama dengan urusan negara, melainkan mengakui pentingnya nilai-nilai agama dalam kehidupan bernegara."
   },
   {
     "id": 83,
-    "question": "Hakikat sebuah negara yang menekankan pada unsur pemerintahan adalah...",
+    "question": "Pelaksanaan syariat Islam bagi para pemeluk agama Islam tersebut memiliki dasar hukum yang kuat. Yaitu",
     "options": [
-      "Negara merupakan alat untuk mengatur dan mengendalikan masyarakat secara",
-      "Negara merupakan organisasi masyarakat yang diciptakan oleh sebagian kelompok (founding father)",
-      "Negara merupakan kekuasaan kewilayahan yang diperbolehkan untuk mengatur kehidupan masyarakat dengan cara kekerasan",
-      "Negara merupakan organisasi kekuasaan untuk mengatur kehidupan berdasrkan kekuasaan",
-      "Negara merupakan asosiasi terhadap masyarakat untuk diatur dan dilindungi dalam suatu wilayah tertentu"
+      "Pancasila sila kedua",
+      "Pancasila sila pertama dan UUD 45 pasal 29",
+      "Pembukaan UUD 45",
+      "Pancasila sila kelima",
+      "UUD 45 pasa 19"
     ],
-    "correctAnswer": 3,
-    "explanation": "Hakikat negara yang menekankan pada unsur pemerintahan adalah bahwa negara merupakan organisasi kekuasaan untuk mengatur kehidupan berdasarkan kekuasaan (yang sah)."
+    "correctAnswer": 1,
+    "explanation": "Pelaksanaan syariat Islam memiliki dasar hukum yang kuat, yaitu Pancasila sila pertama (Ketuhanan Yang Maha Esa) dan UUD 1945 Pasal 29 ayat 1 dan 2, yang menjamin kebebasan beragama dan beribadah menurut agama dan kepercayaannya itu."
   },
   {
     "id": 84,
-    "question": "Sebuah manuskrip kuno yang menceritakan kejayaan Majapahit dalam menyatukan nusantara menjadi cikal bakal lahirnya nasionalisme yang dikembangkan para founding father di Indonesia, manuskrip itu berjudul...",
+    "question": "Mengapa ideologi sangat menentukan eksistensi negara ?",
     "options": [
-      "Sutasoma",
-      "Babad Tanah Jawa",
-      "Negarakertagama",
-      "Purwaka Caruban Nagari",
-      "Pararaton"
+      "Karena ideologi adalah dasar sebuah Negara",
+      "Karena setiap Negara harus punya ideologi yang khas",
+      "Karena ideologi adalah arahan praktis bagi Negara mencapai tujuannya melalui berbagai realisasi pembangunan",
+      "Karena ideologi itu sedapat mungkin tidak diganti",
+      "Karena ideologi disusun oleh bapak pendiri bangsa"
     ],
     "correctAnswer": 2,
-    "explanation": "Manuskrip kuno yang menceritakan kejayaan Majapahit dalam menyatukan nusantara dan menjadi cikal bakal nasionalisme adalah Negarakertagama, karangan Mpu Prapanca."
+    "explanation": "Ideologi sangat menentukan eksistensi negara karena ideologi adalah arahan praktis bagi negara untuk mencapai tujuannya melalui berbagai realisasi pembangunan."
   },
   {
     "id": 85,
-    "question": "Kecakapan seseorang sebagai WNI yang mendapatkan hak serta kewajiban dalam usaha-usaha bernegara ditetapkan pada saat...",
+    "question": "Pancasila merupakan ideologi yang terbuka dan tidak bersifat utopis. Apa maksud Pancasila tidak bersifat utopis ?",
     "options": [
-      "Dilahirkan",
-      "Masuk sekolah dasar",
-      "Usia 17 tahun",
-      "Usia 19 tahun",
-      "Usia 21 tahun"
+      "Artinya Pancasila itu bisa diterapkan dalam kehidupan sehari-hari secara nyata, bukan ide-ide yang jauh dari realita",
+      "Artinya Pancasila itu memang sulit untuk diterapkan dalam kehidupan riil",
+      "Artinya Pancasila itu harus diterapkan dalam kehidupan sehari-hari",
+      "Artinya Pancasila adalah ideologi yang jauh dari realita",
+      "Artinya Pancasila adalah ideologi yang filosofis"
     ],
-    "correctAnswer": 2,
-    "explanation": "Seseorang dianggap cakap dan memiliki hak serta kewajiban sebagai WNI (termasuk hak pilih) pada usia 17 tahun atau sudah menikah."
+    "correctAnswer": 0,
+    "explanation": "Pancasila tidak bersifat utopis artinya Pancasila bisa diterapkan dalam kehidupan sehari-hari secara nyata, bukan ide-ide yang jauh dari realita."
   },
   {
     "id": 86,
-    "question": "Kasus yang menimpa seseorang ketika tidak memiliki kewarganegaraan (apatride) terjadi ketika...",
+    "question": "Sila kelima Pancasila adalah tentang keadilan. Adapun dalam kehidupan bermasyarakat, keadilan sosial harus meliputi tiga hal. Yaitu keadilan distributif, keadilan legal dan keadilan komutatif. Apa maksud dari keadilan distributif ?",
     "options": [
-      "Berasal dari negara yang menganut asas ius soli dan melahirkan di negara yang menganut asas ius sanguinis",
-      "Berasal dari negara yang menganut ius sanguinis dan melahirkan di negara yang menganut ius soli",
-      "Lahir di negara yang menganut ius sanguinis bertempat tinggal dan melahirkan di negara yang menganut ius sanguinis",
-      "Lahir di negara yang menganut ius soli bertempat tinggal dan melahirkan di negara yang menganut ius soli",
-      "Memiliki status tidak memiliki kewarganegaraan dan melahirkan serta bertempat tinggal di negara yang menganut ius soli"
+      "Keadilan membagi. Yaitu keadilan Negara terhadap warganya",
+      "Keadilan saling berbagi",
+      "Keadilan mendapatkan bagian paling baik",
+      "Keadilan sesama warga",
+      "Keadilan mutlak"
     ],
-    "correctAnswer": 2,
-    "explanation": "Status apatride (tanpa kewarganegaraan) dapat terjadi jika seseorang lahir di negara yang menganut asas ius sanguinis (kewarganegaraan berdasarkan keturunan) dari orang tua yang juga menganut asas ius sanguinis, tetapi negara tersebut tidak mengakui kewarganegaraan orang tuanya."
+    "correctAnswer": 0,
+    "explanation": "Keadilan distributif adalah keadilan dalam hal pembagian, yaitu keadilan Negara terhadap warganya dalam pembagian hak dan kewajiban."
   },
   {
     "id": 87,
-    "question": "Fenomena generasi muda yang mengalami kepudaran terhadap jiwa nasionalisme disebabkan karena...",
+    "question": "Apa yang dimaksud dengan keadilan legal ?",
     "options": [
-      "Orientasi nasionalisme adalah sikap dan perbuatan",
-      "Labeling nasionalisme menjadi stigma bagi generasi muda",
-      "Ukuran nasionalisme dipahami hanya sebatas perjuangan secara fisik",
-      "Kurangnya daya juang terhadap tantangan perubahan zaman",
-      "Kurangnya sosok heroisme bagi kaum muda"
+      "Keadilan yang sah",
+      "Keadilan tanpa harus melanggar hukum",
+      "Keadilan bertaat. Keadilaan warga untuk patuh pada peraturan dan perundang-undangan Negara",
+      "Keadilan mendapatkan bagian paling baik",
+      "Keadilan mutlak"
     ],
     "correctAnswer": 2,
-    "explanation": "Kepudaran jiwa nasionalisme pada generasi muda seringkali disebabkan oleh pemahaman nasionalisme yang hanya sebatas perjuangan fisik, bukan dalam konteks pembangunan dan kontribusi di era modern."
+    "explanation": "Keadilan legal adalah keadilan bertaat, yaitu keadilan warga untuk patuh pada peraturan dan perundang-undangan Negara."
   },
   {
     "id": 88,
-    "question": "Negara mempunyai kekuasaan untuk memaksa warga negaranya, baik secara fisik maupun tidak. Hal ini karena negara mempunyai sifat...",
+    "question": "Apa yang dimaksud dengan keadilan komutatif ?",
     "options": [
-      "Memaksa",
-      "Monopoli",
-      "Mencakup semua",
-      "Mengayomi",
-      "Mengikat"
+      "Keadilan yang mementingkan diri sendiri",
+      "Keadilan antara sesama warga Negara.",
+      "Keadilan antara warga dengan Negara",
+      "Keadilan yang tak dapat diganggu gugat",
+      "Keadilan yang seadil-adilnya"
     ],
-    "correctAnswer": 0,
-    "explanation": "Sifat negara untuk memaksa berarti negara memiliki kekuasaan untuk menggunakan paksaan agar peraturan ditaati."
+    "correctAnswer": 1,
+    "explanation": "Keadilan komutatif adalah keadilan antara sesama warga negara."
   },
   {
     "id": 89,
-    "question": "Terbentuknya suatu negara harus memenuhi beberapa unsur yang terbagi menjadi dua klasifikasi, yaitu deklaratif dan konstitutif. Yang menjadi unsur deklaratif berdirinya suatu negara adalah...",
+    "question": "Indonesia adalah Negara hukum. Dan sebagai Negara hukum, Indonesia haruslah memiliki syarat-syarat sebagai Negara hukum seperti berikut ini, kecuali :",
     "options": [
-      "Pemerintah yang berdaulat",
-      "Adanya wilayah tertentu",
-      "Adanya rakyat yang dipimpin",
-      "Adanya kedaulatan",
-      "Pengakuan dari negara lain"
+      "Pengakuan atas Hak Asasi Manusia",
+      "Perlindungan atas Hak Asasi Manusia",
+      "Peradilan yang bebas",
+      "Legalitas hukum dalam segala bentuknya",
+      "Sistem hukum yang fleksibel"
     ],
     "correctAnswer": 4,
-    "explanation": "Unsur deklaratif berdirinya suatu negara adalah pengakuan dari negara lain (secara de facto maupun de jure). Unsur konstitutif meliputi wilayah, rakyat, dan pemerintah yang berdaulat."
+    "explanation": "Sistem hukum yang fleksibel bukanlah syarat utama negara hukum. Syarat negara hukum antara lain pengakuan dan perlindungan HAM, peradilan yang bebas, dan legalitas hukum dalam segala bentuknya."
   },
   {
     "id": 90,
-    "question": "Ada beberapa teori yang menjelaskan mengenai terbentuknya suatu negara. Menurut kejadiannya, asal mula terbentuknya negara Indonesia disebabkan oleh...",
+    "question": "Tertib hukum di Indonesia memiliki empat syarat berikut ini, kecuali :",
     "options": [
-      "Fusi",
-      "Perjuangan",
-      "Occupatie",
-      "Penyerahan",
-      "Pendudukan"
+      "Adanya kesatuan subyek",
+      "Adanya kesatuan asas kerohanian",
+      "Adanya kesatuan daerah",
+      "Adanya kesatuan waktu",
+      "Adanya kesatuan filosofi hidup"
     ],
-    "correctAnswer": 1,
-    "explanation": "Asal mula terbentuknya negara Indonesia disebabkan oleh perjuangan panjang rakyat Indonesia melawan penjajahan."
+    "correctAnswer": 4,
+    "explanation": "Empat syarat tertib hukum di Indonesia adalah kesatuan subyek (pihak yang berwenang), kesatuan asas kerohanian (Pancasila), kesatuan daerah (wilayah NKRI), dan kesatuan waktu (berlakunya hukum). Adanya kesatuan filosofi hidup bukanlah syarat khusus tertib hukum, meskipun Pancasila sebagai filosofi hidup mendasari hukum."
   },
   {
     "id": 91,
-    "question": "Memasyarakatkan Pancasila dan pendidikan Pancasila di lingkungan sekolah merupakan upaya untuk...",
+    "question": "Apa yang dimaksud dengan kesatuan subyek",
     "options": [
-      "Membangun sikap kompetitif bagi kaum terpelajar",
-      "Mewujudkan masyarakat sadar hukum",
-      "Mengembangkan sikap demokratis yang beradab",
-      "Menjadikan warga negara yang cerdas dan berkarakter dalam menjunjung tinggi nilai kemanusiaan",
-      "Menumbuhkembangkan jiwa dan semangat nasionalisme serta rasa cinta tanah air"
+      "Adalah penguasa yang mengadakan peraturan hukum",
+      "Harus ada berbagai pihak yang mengatur masalah hukum",
+      "Haruslah adil dalam menetapkan putusan hukum",
+      "Rakyat adalah Satu",
+      "Wilayah hukum haruslah Satu"
     ],
-    "correctAnswer": 4,
-    "explanation": "Memasyarakatkan Pancasila dan pendidikan Pancasila di sekolah bertujuan untuk menumbuhkembangkan jiwa dan semangat nasionalisme serta rasa cinta tanah air."
+    "correctAnswer": 0,
+    "explanation": "Kesatuan subyek dalam tertib hukum adalah adanya penguasa yang berwenang untuk membuat dan menegakkan peraturan hukum."
   },
   {
     "id": 92,
-    "question": "Sumpah setia terhadap NKRI dan Pancasila merupakan kewajiban yang harus dilakukan oleh pejabat negara. Dasar sumpah tersebut bagi seorang ASN adalah...",
+    "question": "Apa yang dimaksud dengan kesatuan daerah",
     "options": [
-      "Pancasila sebagai wawasan hidup bangsa",
-      "Pejabat negara harus setia terhadap NKRI",
-      "Pancasila merupakan landasan hukum bangsa",
-      "NKRI dan Pancasila adalah warisan budaya bangsa",
-      "Pancasila penting dalam membentuk perilaku ASN"
+      "Adalah penguasa yang mengadakan peraturan hukum",
+      "Harus ada berbagai pihak yang mengatur masalah hukum",
+      "Haruslah adil dalam menetapkan putusan hukum",
+      "Rakyat adalah Satu",
+      "Adanya suatu wilayah dimana hukum berlaku"
     ],
-    "correctAnswer": 0,
-    "explanation": "Dasar sumpah setia ASN terhadap NKRI dan Pancasila adalah Pancasila sebagai wawasan hidup bangsa (pandangan hidup)."
+    "correctAnswer": 4,
+    "explanation": "Kesatuan daerah dalam tertib hukum adalah adanya suatu wilayah di mana hukum berlaku secara seragam."
   },
   {
     "id": 93,
-    "question": "Keutamaan seorang ASN sebagai pejabat publik berintegritas tinggi pada nilai...",
+    "question": "Hal-hal berikut ini yang tidak melanggar Pancasila sila pertama dan pasal 29 UUD 45, adalah",
     "options": [
-      "Kejujuran",
-      "Kedisiplinan",
-      "Tanggung jawab",
-      "Kepedulian",
-      "Pelayanan public"
+      "Menghalangi umat kristiani melakukan ibadah di gereja",
+      "Menghalangi umat hindhu melakukan perintah agamanya sendiri",
+      "Menghalangi umat Islam melaksanakan syariah Islam",
+      "Membiarkan umat budha yang ingin menjalankan aturan agamanya sendiri",
+      "Menghalangi umat konghucu melakukan ajaran agamanya sendiri"
     ],
-    "correctAnswer": 0,
-    "explanation": "Integritas tinggi seorang ASN sebagai pejabat publik sangat erat kaitannya dengan nilai kejujuran."
+    "correctAnswer": 3,
+    "explanation": "Membiarkan umat Buddha yang ingin menjalankan aturan agamanya sendiri adalah tindakan yang sesuai dengan Pancasila sila pertama (Ketuhanan Yang Maha Esa) dan Pasal 29 UUD 1945, yang menjamin kebebasan beragama."
   },
   {
     "id": 94,
-    "question": "Penegakan hukum khusus tindakan korupsi menganut asas...",
+    "question": "Pancasila mengandung nilai instrumental. Apa maksud nilai instrumental ?",
     "options": [
-      "Lex specialis derogat legi generali",
-      "Lex superior derogat legi emperor",
-      "Equility before the law",
-      "Lex posterior derogat legi priori",
-      "Lex imperfecta"
+      "Penjabaran, arahan dan lembaga pelaksanaan nilai-nilai dasar Pancasila",
+      "Alat mempersatukan bangsa Indonesia",
+      "Nilai praktis kehidupan sehari-hari",
+      "Nilai-nilai yang berkaitan dengan alat pendirian Negara",
+      "Alat penting mendirikan Negara"
     ],
     "correctAnswer": 0,
-    "explanation": "Penegakan hukum khusus tindakan korupsi menganut asas lex specialis derogat legi generali, yaitu hukum yang bersifat khusus mengesampingkan hukum yang bersifat umum."
+    "explanation": "Nilai instrumental Pancasila adalah penjabaran, arahan, dan lembaga pelaksanaan nilai-nilai dasar Pancasila dalam bentuk peraturan perundang-undangan dan kebijakan."
   },
   {
     "id": 95,
-    "question": "KPK sebagai lembaga khusus tindak pidana korupsi memiliki andil dalam perkara korupsi terutama dalam bidang...",
+    "question": "Keunggulan demokrasi Pancasila bila dibandingkan dengan demokrasi lainnya, adalah",
     "options": [
-      "Penuntutan",
-      "Penyidikan",
-      "Penuntutan sekaligus penyidikan",
-      "Pemutusan perkara",
-      "Penyidikan sekaligus pemutusan perkara"
+      "Keputusan diambil melalui musyawarah mufakat",
+      "Keputusan diambil dengan voting",
+      "Keputusan diambil dengan suara terbanyak",
+      "Keputusan diambil dengan melandaskan pada rasa kemanusiaan",
+      "Hasil keputusan bisa dipertanggungjawabkan"
     ],
-    "correctAnswer": 2,
-    "explanation": "KPK memiliki kewenangan untuk melakukan penyidikan dan penuntutan dalam perkara tindak pidana korupsi."
+    "correctAnswer": 0,
+    "explanation": "Keunggulan demokrasi Pancasila dibandingkan demokrasi lainnya adalah penekanan pada pengambilan keputusan melalui **musyawarah mufakat**, bukan hanya voting atau suara terbanyak."
   },
   {
     "id": 96,
-    "question": "Berdasarkan UU No. 30 Tahun 2002 Pasal 13, KPK memiliki kewenangan terhadap penyelenggara negara (PN) dalam...",
-    "options": [
-      "Pelaporan tindakan korupsi",
-      "Penindakan tindakan korupsi",
-      "Pendaftaran dan pelaporan kekayaan penyelenggara Negara",
-      "Audit penyelenggara negara",
-      "Menyadap komunikasi penyelenggara Negara"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Berdasarkan UU No. 30 Tahun 2002 tentang Komisi Pemberantasan Tindak Pidana Korupsi, salah satu kewenangan KPK terhadap penyelenggara negara adalah melakukan pendaftaran dan pemeriksaan Laporan Harta Kekayaan Penyelenggara Negara (LHKPN)."
+    "question": "Hubungan sosial yang selaras, seimbang antara individu dalam masyarakat, adalah dijiwai oleh Pancasila sila ke",
+    "options": ["Sila ketiga", "Sila kedua", "Sila pertama", "Sila keempat", "Sila kelima"],
+    "correctAnswer": 1,
+    "explanation": "Hubungan sosial yang selaras, seimbang antara individu dalam masyarakat dijiwai oleh Pancasila sila **kedua** (Kemanusiaan yang Adil dan Beradab)."
   },
   {
     "id": 97,
-    "question": "Ada sembilan nilai integritas dalam anti korupsi yang terbagi dalam 3 kelompok, yaitu...",
-    "options": [
-      "Inti, sikap, dan etos kerja",
-      "Personal, perilaku, dan norma",
-      "Kepribadian, agama, dan etos kerja",
-      "Nilai, norma, dan kepribadian",
-      "Inti, personal, dan sikap"
-    ],
-    "correctAnswer": 0,
-    "explanation": "Sembilan nilai integritas anti korupsi terbagi dalam tiga kelompok: nilai inti (jujur, peduli, mandiri), nilai sikap (disiplin, tanggung jawab, kerja keras), dan nilai etos kerja (sederhana, berani, adil)."
+    "question": "Salah satu tokoh yang ikut merumuskan Pancasila adalah",
+    "options": ["Budi Utomo", "Muh. Yamin", "Adam Malik", "Sarwo Edhi Wibowo", "Soeharto"],
+    "correctAnswer": 1,
+    "explanation": "Salah satu tokoh yang ikut merumuskan Pancasila adalah **Mohammad Yamin**, bersama dengan Soepomo dan Soekarno."
   },
   {
     "id": 98,
-    "question": "Integritas berdasarkan kompetensi KPK memiliki pengertian bahwa...",
+    "question": "Sikap berikut adalah sesuai dengan pengamalan Pancasila sila keempat. Yaitu",
     "options": [
-      "Bertindak sesuai perkataan dan tindakan sesuai dengan nilai secara konsisten",
-      "Mutu, sifat, dan keadaan yang digambarkan secara utuh yang memancarkan kewibawaan",
-      "Patuh pada kode etik dalam perkataan dan perbuatan",
-      "Berkepribadian utuh yang merujuk pada nilai moral dan etika",
-      "Kepribadian yang membawa marwah bangsa dan negara sebagai identitas nasional"
+      "Saling menghormati antar umat beragama",
+      "Hidup dengan selaras, seimbang damai antar berbagai elemen masyarakat",
+      "Mendahulukan kepentingan umum daripada kepentingan pribadi",
+      "Menumbuhkan sikap saling tolong menolong",
+      "Menolak ide-ide separatisme"
     ],
-    "correctAnswer": 0,
-    "explanation": "Integritas (menurut KPK) berarti bertindak sesuai perkataan dan tindakan sesuai dengan nilai-nilai secara konsisten, tidak berbohong, tidak korupsi, dan tidak curang."
+    "correctAnswer": 2,
+    "explanation": "Sikap yang sesuai dengan pengamalan Pancasila sila keempat (Kerakyatan yang Dipimpin oleh Hikmat Kebijaksanaan dalam Permusyawaratan/Perwakilan) adalah **mendahulukan kepentingan umum daripada kepentingan pribadi**, karena sila ini menekankan pada musyawarah untuk kepentingan bersama."
   },
   {
     "id": 99,
-    "question": "Nilai-nilai berikut yang termasuk dalam nilai antikorupsi pada aspek etos kerja adalah...",
-    "options": [
-      "Jujur, tanggung jawab, dan adil",
-      "Tanggung jawab, peduli, dan mandiri",
-      "Kerja keras, mandiri, dan sederhana",
-      "Adil, berani, peduli",
-      "Jujur, disiplin, dan tanggung jawab"
-    ],
-    "correctAnswer": 2,
-    "explanation": "Nilai anti korupsi pada aspek etos kerja meliputi kerja keras, mandiri, dan sederhana."
+    "question": "Bergaya hidup mewah di negara berkembang seperti Indonesia, yang di kanan kiri masih banyak rakyat miskin, adalah bertolak belakang dengan pengamalan Pancasila",
+    "options": ["Sila pertama", "Sila kedua", "Sila ketiga", "Sila keempat", "Sila kelima"],
+    "correctAnswer": 4,
+    "explanation": "Bergaya hidup mewah di tengah kemiskinan bertolak belakang dengan pengamalan Pancasila sila **kelima** (Keadilan Sosial bagi Seluruh Rakyat Indonesia), yang mengedepankan pemerataan dan keadilan sosial."
   },
   {
     "id": 100,
-    "question": "Setiap negara mempunyai batas wilayahnya masing-masing. Indonesia sebagai negara yang dikelilingi laut memiliki batas laut teritorial. Mulai tanggal 21 Maret 1980 batas wilayah laut Indonesia sebesar...",
+    "question": "Pernyataan yang selaras dengan sila kedua Pancasila adalah",
     "options": [
-      "3 mil",
-      "12 mil",
-      "20 mil",
-      "200 mil",
-      "150 mil"
+      "Martabat dan derajat manusia adalah sama",
+      "Seorang pejabat Negara memiliki derajat lebih tinggi daripada petani biasa",
+      "Artis ibukota memiliki martabat lebih tinggi dibandingkan dengan  yang bukan artis",
+      "Derajat dan martabat seseorang tergantung keturunannya",
+      "Anggota Dewan Perwakilan Rakyat (DPR) adalah orang pilihan rakyat yang memiliki derajat lebih unggul dibandingkan dengan rakyat biasa"
     ],
-    "correctAnswer": 1,
-    "explanation": "Mulai tanggal 21 Maret 1980, batas laut teritorial Indonesia ditetapkan sejauh 12 mil laut dari garis pangkal kepulauan."
+    "correctAnswer": 0,
+    "explanation": "Pernyataan yang selaras dengan sila kedua Pancasila (Kemanusiaan yang Adil dan Beradab) adalah **martabat dan derajat manusia adalah sama**, menjunjung tinggi persamaan hak dan kewajiban tanpa memandang status sosial."
   }
 ].map(transformQuestion);

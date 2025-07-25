@@ -133,7 +133,7 @@ function App() {
             (UU No. 3 Tahun 2024) Untuk Tes Perangkat Desa 2025
             <br />
             <br />
-            <span className='font-bold text-2xl'>TWK & UUD</span>
+            <span className='font-bold text-2xl'>TES UUD 1945</span>
           </p>
         </div>
         <Quiz />
