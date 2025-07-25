@@ -385,7 +385,7 @@ export const questions: Question[] = [
       "Pendidikan luar sekolah",
       "Pendidikan tinggi"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation": "Sesuai dengan UUD 1945 Pasal 31 ayat 2, 'Setiap warga negara wajib mengikuti pendidikan dasar dan pemerintah wajib membiayainya.'"
   },
   {
@@ -498,7 +498,7 @@ export const questions: Question[] = [
       "UUD 45, Sosialisme, Demokrasi Terpimpin, Ekonomi, Kepribadian Indonesia",
       "UUD 45, Sosialisme, Demokrasi, Ekonomi, Kepribadian Indonesia"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation": "Manipol USDEK adalah singkatan dari Manifestasi Politik Undang-Undang Dasar 1945, Sosialisme Indonesia, Demokrasi Terpimpin, Ekonomi Terpimpin, dan Kepribadian Indonesia."
   },
   {
@@ -538,7 +538,7 @@ export const questions: Question[] = [
     "id": 54,
     "question": "Istilah \"Pancasila\" ditemukan pada jaman kerajaan Majapahit, yaitu berada dalam kitab",
     "options": ["Baratayudha", "Prapanca", "Centhini", "Sutasoma", "Negarakertagama"],
-    "correctAnswer": 3,
+    "correctAnswer": 4,
     "explanation": "Istilah 'Pancasila' ditemukan dalam Kitab Sutasoma karangan Empu Tantular pada zaman Kerajaan Majapahit."
   },
   {
@@ -578,7 +578,7 @@ export const questions: Question[] = [
       "Ketuhanan, Kemanusiaan, Kebangsaan, Kerakyatan, Keadilan",
       "Ketuhanan Yang Maha Esa, Peri Kemanusiaan, Kebangsaan, Kerakyatan, Keadilan Sosial"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 4,
     "explanation": "Rumusan Pancasila dalam Konstitusi RIS (29 Desember 1949 - 17 Agustus 1950) adalah: Ketuhanan, Kemanusiaan, Kebangsaan, Kerakyatan, Keadilan Sosial."
   },
   {
